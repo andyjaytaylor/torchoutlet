@@ -1,0 +1,94 @@
+# robots.txt
+# Search engines and AI assistants are welcome. Product, price and stock facts are in /llms.txt and /products.json.
+
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /404
+
+# AI search, AI assistants and AI training crawlers: allowed
+User-agent: GPTBot
+Allow: /
+Disallow: /cart
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /cart
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /cart
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /cart
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /cart
+
+User-agent: Claude-User
+Allow: /
+Disallow: /cart
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /cart
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /cart
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /cart
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /cart
+
+User-agent: GoogleOther
+Allow: /
+Disallow: /cart
+
+User-agent: Applebot
+Allow: /
+Disallow: /cart
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /cart
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /cart
+
+User-agent: Bingbot
+Allow: /
+Disallow: /cart
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /cart
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /cart
+
+User-agent: CCBot
+Allow: /
+Disallow: /cart
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /cart
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /cart
+
+User-agent: YouBot
+Allow: /
+Disallow: /cart
+
+Sitemap: https://www.torchoutlet.com.au/sitemap.xml

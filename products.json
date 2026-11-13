@@ -1,0 +1,1064 @@
+{
+ "shop": "Torch Outlet",
+ "url": "https://www.torchoutlet.com.au/",
+ "country": "AU",
+ "currency": "AUD",
+ "prices_include_gst": true,
+ "generated": "2026-11-13",
+ "products": [
+  {
+   "id": "NITECORE-MH23",
+   "title": "Nitecore MH23 Rechargeable Torch, 1800 Lumens",
+   "brand": "Nitecore",
+   "model": "MH23",
+   "type": "Rechargeable torch",
+   "price": 123,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mh23",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mh23.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mh23-1.jpg",
+   "lumens": 1800,
+   "beam_distance_m": 294,
+   "power": "USB rechargeable",
+   "retail_price_aud": 246.0,
+   "summary": "The brightest torch on our shelf, and one of the smallest. 1800 lumens from a body that weighs less than your phone.",
+   "specs": {
+    "Output": "1800 lumens",
+    "Beam distance": "294 m",
+    "LED": "CREE XHP35 HD",
+    "Charging": "Micro USB, built into the torch",
+    "Weight": "Under 100 g",
+    "Water rating": "IPX8"
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MH20GT",
+   "title": "Nitecore MH20GT Palm-Size Spotlight, 1000 Lumens, 362 m",
+   "brand": "Nitecore",
+   "model": "MH20GT",
+   "type": "Rechargeable torch",
+   "price": 109,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mh20gt",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mh20gt.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mh20gt-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 362,
+   "power": "1 x 18650, USB rechargeable",
+   "retail_price_aud": 218.0,
+   "summary": "A spotlight you can close your hand around. 1000 lumens pushed into a tight beam that reaches 362 metres.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "362 m",
+    "LED": "CREE XP-L HI V3",
+    "Battery": "1 x 18650",
+    "Charging": "Micro USB, built into the torch. USB cable included."
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MH12GT",
+   "title": "Nitecore MH12GT Rechargeable Torch, 1000 Lumens, 320 m",
+   "brand": "Nitecore",
+   "model": "MH12GT",
+   "type": "Rechargeable torch",
+   "price": 84,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mh12gt",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mh12gt.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mh12gt-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 320,
+   "power": "18650 included, USB rechargeable",
+   "retail_price_aud": 169.0,
+   "summary": "Everything people like about the MH12, with a tighter beam that reaches 320 metres.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "320 m",
+    "LED": "CREE XP-L HI V3",
+    "Battery": "18650, included",
+    "Charging": "Micro USB, cable included"
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MH12",
+   "title": "Nitecore MH12 Rechargeable Torch, 1000 Lumens",
+   "brand": "Nitecore",
+   "model": "MH12",
+   "type": "Rechargeable torch",
+   "price": 84,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mh12",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mh12.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mh12-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 232,
+   "power": "18650 included, or 2 x CR123. USB rechargeable",
+   "retail_price_aud": 169.0,
+   "summary": "The workhorse. 1000 lumens, a 3200mAh battery in the box, and a charge port on the torch.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "232 m",
+    "LED": "CREE XM-L2 U2",
+    "Battery": "3200mAh 18650, included. Also runs on 2 x CR123.",
+    "Charging": "Micro USB, cable included"
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MH1C",
+   "title": "Nitecore MH1C Rechargeable Torch, 600 Lumens",
+   "brand": "Nitecore",
+   "model": "MH1C",
+   "type": "Rechargeable torch",
+   "price": 69,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mh1c",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mh1c.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mh1c-1.jpg",
+   "lumens": 600,
+   "beam_distance_m": null,
+   "power": "Rechargeable battery included",
+   "retail_price_aud": 144.95,
+   "summary": "A pocket-sized rechargeable that does not ask you to buy anything else. Battery and cable are in the box.",
+   "specs": {
+    "Output": "600 lumens",
+    "LED": "CREE XM-L2",
+    "Battery": "Rechargeable Li-ion, included",
+    "Charging": "Micro USB, cable included"
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-P16",
+   "title": "Nitecore P16 Precise Series Torch, 960 Lumens",
+   "brand": "Nitecore",
+   "model": "P16",
+   "type": "Tactical torch",
+   "price": 77,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-p16",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-p16.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-p16-1.jpg",
+   "lumens": 960,
+   "beam_distance_m": 289,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 154.95,
+   "summary": "A full-size tactical torch. 960 lumens, 289 metres of throw and a battery level indicator built in.",
+   "specs": {
+    "Output": "960 lumens",
+    "Beam distance": "289 m",
+    "LED": "CREE XM-L2 T6",
+    "Battery": "1 x 18650 or 2 x CR123 (not included)",
+    "Modes": "7",
+    "Extras": "Power level indicator"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-P10GT",
+   "title": "Nitecore P10GT Precise Series Torch, 900 Lumens",
+   "brand": "Nitecore",
+   "model": "P10GT",
+   "type": "Tactical torch",
+   "price": 53,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-p10gt",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-p10gt.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-p10gt-1.jpg",
+   "lumens": 900,
+   "beam_distance_m": 286,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 106.0,
+   "summary": "A compact tactical torch built for one hand. 900 lumens, 286 metres, and strobe on the tail switch when you need it.",
+   "specs": {
+    "Output": "900 lumens",
+    "Beam distance": "286 m",
+    "LED": "CREE XP-L HI V3",
+    "Battery": "1 x 18650 or 2 x CR123 (not included)",
+    "Switch": "Tactical tail switch, strobe ready"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MT40GT",
+   "title": "Nitecore MT40GT Thrower Torch, 1000 Lumens, 618 m",
+   "brand": "Nitecore",
+   "model": "MT40GT",
+   "type": "Long-range torch",
+   "price": 88,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mt40gt",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mt40gt.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mt40gt-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 618,
+   "power": "2 x 18650 or 4 x CR123",
+   "retail_price_aud": 176.0,
+   "summary": "The long-range torch. 1000 lumens focused into a beam that reaches 618 metres.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "618 m",
+    "LED": "CREE XP-L HI",
+    "Peak intensity": "95,400 cd",
+    "Battery": "2 x 18650 or 4 x CR123 (not included)",
+    "Runtime on high": "3 hours",
+    "Impact resistance": "1.5 m",
+    "Waterproof": "2 m"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MT22C",
+   "title": "Nitecore MT22C Torch, 1000 Lumens, Infinitely Variable",
+   "brand": "Nitecore",
+   "model": "MT22C",
+   "type": "Tactical torch",
+   "price": 54,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mt22c",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mt22c.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mt22c-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": null,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 109.95,
+   "summary": "No modes to click through. Twist the ring and the MT22C goes smoothly from 0.5 lumens to 1000.",
+   "specs": {
+    "Output": "0.5 to 1000 lumens, stepless",
+    "LED": "CREE XP-L HD V6",
+    "Battery": "1 x 18650 or 2 x CR123 (not included)",
+    "Switch": "Rotary ring"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MT20A",
+   "title": "Nitecore MT20A Torch, 360 Lumens, 2 x AA",
+   "brand": "Nitecore",
+   "model": "MT20A",
+   "type": "AA torch",
+   "price": 49,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mt20a",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mt20a.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mt20a-1.jpg",
+   "lumens": 360,
+   "beam_distance_m": null,
+   "power": "2 x AA",
+   "retail_price_aud": 134.95,
+   "summary": "A proper torch that runs on two AA batteries. The kind you can buy at any servo at 2am.",
+   "specs": {
+    "Output": "360 lumens",
+    "LED": "CREE XP-G2",
+    "Battery": "2 x AA (not included)",
+    "Runtime on low": "170 hours",
+    "Switch": "Side switch"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-EF1",
+   "title": "Nitecore EF1 Explosion-Proof Torch, 830 Lumens",
+   "brand": "Nitecore",
+   "model": "EF1",
+   "type": "Explosion-proof torch",
+   "price": 129,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-ef1",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-ef1.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-ef1-1.jpg",
+   "lumens": 830,
+   "beam_distance_m": null,
+   "power": "1 x 18650",
+   "retail_price_aud": 259.0,
+   "summary": "An explosion-proof rated handheld torch for hazardous areas. 830 lumens from a single 18650 cell.",
+   "specs": {
+    "Output": "830 lumens",
+    "Battery": "1 x 18650",
+    "ATEX marking on the box": "II 2 G Ex d IIC T6 Gb",
+    "Type": "Handheld"
+   },
+   "categories": [
+    "torches",
+    "atex-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-T5S",
+   "title": "Nitecore T5s Penlight, 70 Lumens, 1 x AAA",
+   "brand": "Nitecore",
+   "model": "T5s",
+   "type": "Penlight",
+   "price": 25,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-t5s",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-t5s.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-t5s-1.jpg",
+   "lumens": 70,
+   "beam_distance_m": null,
+   "power": "1 x AAA",
+   "retail_price_aud": null,
+   "summary": "A pen-sized light that clips in a shirt pocket and runs on a single AAA battery.",
+   "specs": {
+    "Output": "70 lumens",
+    "Battery": "1 x AAA (not included)",
+    "Runtime on low": "28 hours",
+    "Carry": "Pocket clip"
+   },
+   "categories": [
+    "torches",
+    "keychain-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-SENS-MINI",
+   "title": "Nitecore SENS Mini Torch, 170 Lumens, 1 x CR2",
+   "brand": "Nitecore",
+   "model": "SENS Mini",
+   "type": "Pocket torch",
+   "price": 29,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-sens-mini",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-sens-mini.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-sens-mini-1.jpg",
+   "lumens": 170,
+   "beam_distance_m": null,
+   "power": "1 x CR2",
+   "retail_price_aud": 67.95,
+   "summary": "A keychain-sized torch that changes brightness by how you hold it.",
+   "specs": {
+    "Output": "170 lumens",
+    "Battery": "1 x CR2 (not included)",
+    "Feature": "Active Dimming Technology"
+   },
+   "categories": [
+    "torches",
+    "keychain-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-HC30",
+   "title": "Nitecore HC30 Headlamp, 1000 Lumens, 18650",
+   "brand": "Nitecore",
+   "model": "HC30",
+   "type": "Headlamp",
+   "price": 53,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-hc30",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-hc30.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-hc30-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": null,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 106.0,
+   "summary": "1000 lumens with both hands free. The HC30 is the headlamp for real work.",
+   "specs": {
+    "Output": "1000 lumens",
+    "LED": "CREE XM-L2 U2",
+    "Battery": "1 x 18650 or 2 x CR123 (not included)",
+    "Tilt": "90 degrees",
+    "Runtime on ultralow": "400 hours"
+   },
+   "categories": [
+    "headlamps"
+   ]
+  },
+  {
+   "id": "FEREI-HL20AA",
+   "title": "Ferei HL20 AA High Intensity LED Headlamp",
+   "brand": "Ferei",
+   "model": "HL20 AA",
+   "type": "Headlamp",
+   "price": 39,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/ferei-hl20",
+   "markdown": "https://www.torchoutlet.com.au/products/ferei-hl20.md",
+   "image": "https://www.torchoutlet.com.au/img/ferei-hl20-1.jpg",
+   "lumens": null,
+   "beam_distance_m": null,
+   "power": "AA batteries",
+   "retail_price_aud": null,
+   "summary": "A work and camping headlamp that runs on AA batteries. No charger needed.",
+   "specs": {
+    "Battery": "AA (not included)",
+    "Head": "Tilting",
+    "Type": "Headlamp"
+   },
+   "categories": [
+    "headlamps"
+   ]
+  },
+  {
+   "id": "NITECORE-EH1S",
+   "title": "Nitecore EH1S Explosion-Proof Headlamp, Spot and Flood",
+   "brand": "Nitecore",
+   "model": "EH1S",
+   "type": "Explosion-proof headlamp",
+   "price": 98,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-eh1s",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-eh1s.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-eh1s-1.jpg",
+   "lumens": 260,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 197.0,
+   "summary": "The EH1 with two beams. A spot for distance and a flood for close work, in an explosion-proof rated headlamp.",
+   "specs": {
+    "Output": "260 lumens",
+    "Beams": "Spot and flood",
+    "Charging": "USB rechargeable",
+    "Water and dust rating": "IP68",
+    "Certification": "ATEX, marking on the lamp"
+   },
+   "categories": [
+    "headlamps",
+    "atex-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-LR30",
+   "title": "Nitecore LR30 Camping Lantern, 205 Lumens, High CRI",
+   "brand": "Nitecore",
+   "model": "LR30",
+   "type": "Camping lantern",
+   "price": 30,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-lr30",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-lr30.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-lr30-1.jpg",
+   "lumens": 205,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 61.95,
+   "summary": "A camp table lantern that makes food look like food. 205 lumens of high CRI light, all the way around.",
+   "specs": {
+    "Output": "205 lumens",
+    "Light": "High CRI, 360 degrees",
+    "Charging": "USB rechargeable",
+    "Mount": "Magnetic base",
+    "Colours": "Yellow or teal"
+   },
+   "categories": [
+    "camping-lanterns"
+   ]
+  },
+  {
+   "id": "NITECORE-LR10",
+   "title": "Nitecore LR10 Pocket Camping Lantern, 250 Lumens",
+   "brand": "Nitecore",
+   "model": "LR10",
+   "type": "Camping lantern",
+   "price": 38,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-lr10",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-lr10.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-lr10-1.jpg",
+   "lumens": 250,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 76.95,
+   "summary": "A lantern that folds flat into a pocket. 250 lumens of high CRI light with a magnet and a hanging hook.",
+   "specs": {
+    "Output": "250 lumens",
+    "Light": "High CRI",
+    "Charging": "USB rechargeable",
+    "Mount": "Magnetic base and hanging hook",
+    "Form": "Folds flat"
+   },
+   "categories": [
+    "camping-lanterns"
+   ]
+  },
+  {
+   "id": "NITECORE-LA30",
+   "title": "Nitecore LA30 Bi-Fuel Camping Lantern, 250 Lumens",
+   "brand": "Nitecore",
+   "model": "LA30",
+   "type": "Camping lantern",
+   "price": 41,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-la30",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-la30.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-la30-1.jpg",
+   "lumens": 250,
+   "beam_distance_m": null,
+   "power": "Built-in USB rechargeable, or 2 x AA",
+   "retail_price_aud": 82.95,
+   "summary": "A rechargeable lantern that keeps going when the power does not. Run it on the built-in battery or drop in two AAs.",
+   "specs": {
+    "Output": "250 lumens",
+    "Light": "White and red",
+    "Power": "Built-in USB rechargeable battery, or 2 x AA",
+    "Mount": "Magnetic base",
+    "Colours": "Yellow or blue"
+   },
+   "categories": [
+    "camping-lanterns"
+   ]
+  },
+  {
+   "id": "NITECORE-LA10",
+   "title": "Nitecore LA10 Ultra Portable Camping Lantern, 135 Lumens",
+   "brand": "Nitecore",
+   "model": "LA10",
+   "type": "Camping lantern",
+   "price": 13,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-la10",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-la10.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-la10-1.jpg",
+   "lumens": 135,
+   "beam_distance_m": null,
+   "power": "1 x AA",
+   "retail_price_aud": 27.95,
+   "summary": "A tiny lantern that runs on one AA battery and sticks to anything steel.",
+   "specs": {
+    "Output": "135 lumens",
+    "Battery": "1 x AA (not included)",
+    "Runtime on low": "23 hours",
+    "Mount": "Magnetic base",
+    "Form": "Collapsible diffuser"
+   },
+   "categories": [
+    "camping-lanterns"
+   ]
+  },
+  {
+   "id": "NITECORE-TIP-2017",
+   "title": "Nitecore TIP 2017 Keychain Light, 360 Lumens",
+   "brand": "Nitecore",
+   "model": "TIP 2017",
+   "type": "Keychain light",
+   "price": 19,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tip-2017",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tip-2017.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tip-2017-1.jpg",
+   "lumens": 360,
+   "beam_distance_m": null,
+   "power": "Built-in 500mAh, USB rechargeable",
+   "retail_price_aud": 39.95,
+   "summary": "360 lumens that lives on your key ring. Metal body, built-in battery, charges from any USB port.",
+   "specs": {
+    "Output": "360 lumens",
+    "Battery": "Built-in 500mAh",
+    "Charging": "USB rechargeable",
+    "Body": "Metal",
+    "Modes": "4 levels, with lockout",
+    "Runtime on low": "46 hours",
+    "Beam distance": "74 m",
+    "Water rating": "IP54",
+    "Impact resistance": "1.5 m",
+    "In the box": "Utility clip",
+    "Colours": "Grey, black, green or blue"
+   },
+   "categories": [
+    "keychain-torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TIP-SS",
+   "title": "Nitecore TIP SS Stainless Steel Keychain Light, 360 Lumens",
+   "brand": "Nitecore",
+   "model": "TIP SS",
+   "type": "Keychain light",
+   "price": 33,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tip-ss",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tip-ss.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tip-ss-1.jpg",
+   "lumens": 360,
+   "beam_distance_m": null,
+   "power": "Built-in 500mAh, USB rechargeable",
+   "retail_price_aud": 66.95,
+   "summary": "The TIP keychain light in stainless steel. Heavier in the hand and made for life near the coast.",
+   "specs": {
+    "Output": "360 lumens",
+    "Body": "Stainless steel",
+    "Battery": "Built-in 500mAh",
+    "Charging": "USB rechargeable",
+    "Modes": "4 levels",
+    "In the box": "Utility clip",
+    "Finishes": "Glacier (silver), Tropical (rainbow) or Jet Black"
+   },
+   "categories": [
+    "keychain-torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TIP-CU",
+   "title": "Nitecore TIP CU Copper Keychain Light, 360 Lumens",
+   "brand": "Nitecore",
+   "model": "TIP CU",
+   "type": "Keychain light",
+   "price": 32,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tip-cu",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tip-cu.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tip-cu-1.jpg",
+   "lumens": 360,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 64.95,
+   "summary": "The collector's TIP. A solid copper body that develops its own patina the more you carry it.",
+   "specs": {
+    "Output": "360 lumens",
+    "Body": "Solid copper",
+    "Charging": "USB rechargeable"
+   },
+   "categories": [
+    "keychain-torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TINI",
+   "title": "Nitecore TINI Keychain Light, 380 Lumens",
+   "brand": "Nitecore",
+   "model": "TINI",
+   "type": "Keychain light",
+   "price": 32,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tini",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tini.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tini-1.jpg",
+   "lumens": 380,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 65.0,
+   "summary": "Smaller than a car key and brighter than it has any right to be. 380 lumens at 11 grams.",
+   "specs": {
+    "Output": "380 lumens",
+    "Weight": "11 g",
+    "Charging": "USB rechargeable",
+    "Modes": "4 levels plus SOS",
+    "Colours": "Blue, red, green or grey"
+   },
+   "categories": [
+    "keychain-torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TUBE-UV",
+   "title": "Nitecore Tube UV 365nm Keychain UV Light",
+   "brand": "Nitecore",
+   "model": "Tube UV",
+   "type": "365nm UV keychain light",
+   "price": 14,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tube-uv",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tube-uv.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tube-uv-1.jpg",
+   "lumens": null,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 29.95,
+   "summary": "A 365nm UV light that weighs 10 grams and charges by USB.",
+   "specs": {
+    "Wavelength": "365 nm UV",
+    "Power": "500 mW",
+    "Weight": "10 g",
+    "Charging": "USB rechargeable"
+   },
+   "categories": [
+    "keychain-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TM28",
+   "title": "Nitecore TM28 Tiny Monster, 6000 Lumens, 655 m",
+   "brand": "Nitecore",
+   "model": "TM28",
+   "type": "Searchlight",
+   "price": 399,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tm28",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tm28.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tm28-1.jpg",
+   "lumens": 6000,
+   "beam_distance_m": 655,
+   "power": "4 x 18650, charges in the torch",
+   "retail_price_aud": null,
+   "summary": "The biggest light on our shelf. Four LEDs, 6000 lumens, a 655 metre beam and an OLED screen that tells you output, voltage and runtime.",
+   "specs": {
+    "Output": "6000 lumens on high-drain cells, 4500 on standard 18650",
+    "Beam distance": "655 m",
+    "LED": "4 x CREE XHP35 HI",
+    "Battery": "4 x 18650. Ask us whether cells are in this box.",
+    "Charging": "In the torch, mains adaptor included. Not USB.",
+    "Display": "OLED: output, voltage, runtime, temperature",
+    "Water rating": "IPX8, 2 m",
+    "Weight": "414 g without batteries"
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TM06S",
+   "title": "Nitecore TM06S Tiny Monster, 4000 Lumens",
+   "brand": "Nitecore",
+   "model": "TM06S",
+   "type": "Searchlight",
+   "price": 165,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tm06",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tm06.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tm06-1.jpg",
+   "lumens": 4000,
+   "beam_distance_m": 359,
+   "power": "4 x 18650, not included",
+   "retail_price_aud": 330.0,
+   "summary": "4000 lumens from a torch about the length of your palm. Four LEDs side by side for a wide wall of light out to 359 metres.",
+   "specs": {
+    "Output": "4000 lumens",
+    "Beam distance": "359 m",
+    "LED": "4 x CREE XM-L2 U3",
+    "Battery": "4 x 18650, not included",
+    "Charging": "None on the torch. Needs a separate charger.",
+    "Water rating": "IPX8, 2 m",
+    "Size and weight": "117 mm long, 266 g without batteries"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TM16",
+   "title": "Nitecore TM16 Searchlight, 4000 Lumens, 700 m",
+   "brand": "Nitecore",
+   "model": "TM16",
+   "type": "Searchlight",
+   "price": 214,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tm16",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tm16.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tm16-1.jpg",
+   "lumens": 4000,
+   "beam_distance_m": 700,
+   "power": "4 x 18650, not included",
+   "retail_price_aud": 429.95,
+   "summary": "A handheld searchlight. 4000 lumens pushed 700 metres by four deep reflectors.",
+   "specs": {
+    "Output": "4000 lumens",
+    "Beam distance": "700 m",
+    "LED": "4 x CREE XM-L2 U2",
+    "Battery": "4 x 18650, not included",
+    "Charging": "None on the torch. Needs a separate charger.",
+    "Water rating": "IPX8, 2 m",
+    "Size and weight": "182 mm long, 506 g without batteries"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-TM03",
+   "title": "Nitecore TM03 Tactical Torch, 2800 Lumens",
+   "brand": "Nitecore",
+   "model": "TM03",
+   "type": "Tactical torch",
+   "price": 137,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-tm03",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-tm03.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-tm03-1.jpg",
+   "lumens": 2800,
+   "beam_distance_m": 289,
+   "power": "Dedicated 18650 included",
+   "retail_price_aud": 274.0,
+   "summary": "2800 lumens from one battery. The TM03 is a single-cell tactical torch with the output of a much bigger light.",
+   "specs": {
+    "Output": "2800 lumens",
+    "Beam distance": "289 m",
+    "LED": "CREE XHP70",
+    "Battery": "1 x dedicated high-drain 18650, included",
+    "Charging": "None on the torch. Charger not included.",
+    "Water rating": "IPX8, 2 m",
+    "Size and weight": "159 mm long, 213 g"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-MH40GT",
+   "title": "Nitecore MH40GT Rechargeable Thrower, 1000 Lumens, 803 m",
+   "brand": "Nitecore",
+   "model": "MH40GT",
+   "type": "Rechargeable torch",
+   "price": 134,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-mh40gt",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-mh40gt.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-mh40gt-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 803,
+   "power": "2 x 18650 included, charges in the torch",
+   "retail_price_aud": 269.95,
+   "summary": "The longest beam we sell. 1000 lumens focused into a spot that reaches 803 metres, with the batteries and charger in the box.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "803 m",
+    "LED": "CREE XP-L HI V3",
+    "Battery": "2 x 18650, included. Also runs on 4 x CR123A.",
+    "Charging": "In the torch, mains charger included. Barrel plug, not USB.",
+    "Water rating": "IPX8, 2 m",
+    "Size and weight": "250 mm long, 302 g"
+   },
+   "categories": [
+    "torches",
+    "rechargeable-torches"
+   ]
+  },
+  {
+   "id": "NITECORE-P12-2015",
+   "title": "Nitecore P12 Tactical Torch, 1000 Lumens (2015 Version)",
+   "brand": "Nitecore",
+   "model": "P12",
+   "type": "Tactical torch",
+   "price": 71,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-p12",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-p12.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-p12-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 232,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 142.0,
+   "summary": "A compact tactical torch. 1000 lumens and a 232 metre beam from a body that weighs 88 grams.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "232 m",
+    "LED": "CREE XM-L2 U2",
+    "Battery": "1 x 18650 or 2 x CR123A, not included",
+    "Longest runtime": "520 hours at 1 lumen",
+    "Water rating": "IPX8, 2 m",
+    "Size and weight": "139 mm long, 88 g without battery"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-P15",
+   "title": "Nitecore P15 Tactical Torch, 430 Lumens, 278 m",
+   "brand": "Nitecore",
+   "model": "P15",
+   "type": "Tactical torch",
+   "price": 67,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-p15",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-p15.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-p15-1.jpg",
+   "lumens": 430,
+   "beam_distance_m": 278,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 134.95,
+   "summary": "Built for reach, not flood. 430 lumens in a tight beam that carries 278 metres.",
+   "specs": {
+    "Output": "430 lumens",
+    "Beam distance": "278 m",
+    "LED": "CREE XP-G2",
+    "Battery": "1 x 18650 or 2 x CR123A",
+    "Modes": "4 brightness levels, strobe, SOS, beacon",
+    "Water rating": "IPX8, 2 m",
+    "Weight": "132 g without batteries"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-P16TAC",
+   "title": "Nitecore P16 TAC Tactical Torch, 1000 Lumens, 300 m",
+   "brand": "Nitecore",
+   "model": "P16 TAC",
+   "type": "Tactical torch",
+   "price": 76,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-p16-tac",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-p16-tac.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-p16-tac-1.jpg",
+   "lumens": 1000,
+   "beam_distance_m": 300,
+   "power": "1 x 18650 or 2 x CR123",
+   "retail_price_aud": 153.0,
+   "summary": "The tactical version of the P16. 1000 lumens, 300 metres, and a tail switch you can find with a gloved thumb.",
+   "specs": {
+    "Output": "1000 lumens",
+    "Beam distance": "300 m",
+    "LED": "CREE XM-L2 U3",
+    "Battery": "1 x 18650 or 2 x CR123A, not included",
+    "Modes": "4 brightness levels and 3 special modes",
+    "Water rating": "IPX8, 2 m",
+    "Size and weight": "151 mm long, 141 g without battery"
+   },
+   "categories": [
+    "torches"
+   ]
+  },
+  {
+   "id": "NITECORE-T360",
+   "title": "Nitecore T360 Clip-On Work Light, USB Rechargeable",
+   "brand": "Nitecore",
+   "model": "T360",
+   "type": "Work light",
+   "price": 22,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/nitecore-t360",
+   "markdown": "https://www.torchoutlet.com.au/products/nitecore-t360.md",
+   "image": "https://www.torchoutlet.com.au/img/nitecore-t360-1.jpg",
+   "lumens": 45,
+   "beam_distance_m": null,
+   "power": "Built-in, USB rechargeable",
+   "retail_price_aud": 44.95,
+   "summary": "A 20 gram light that clips to a cap, a pocket or a pack strap and turns all the way round to point where you need it.",
+   "specs": {
+    "Output": "45 lumens",
+    "Beam distance": "30 m",
+    "Battery": "Built-in rechargeable",
+    "Charging": "Micro USB on the light",
+    "Mount": "Rotating clip bracket and headband",
+    "Water rating": "IP65",
+    "Weight": "20.6 g, light only"
+   },
+   "categories": [
+    "headlamps",
+    "keychain-torches"
+   ]
+  },
+  {
+   "id": "FEREI-HL50II",
+   "title": "Ferei HL50 II Twin Head Headlamp, 2200 Lumens",
+   "brand": "Ferei",
+   "model": "HL50 II",
+   "type": "Headlamp",
+   "price": 99,
+   "currency": "AUD",
+   "condition": "new",
+   "availability": "in_stock",
+   "url": "https://www.torchoutlet.com.au/products/ferei-hl50-ii",
+   "markdown": "https://www.torchoutlet.com.au/products/ferei-hl50-ii.md",
+   "image": "https://www.torchoutlet.com.au/img/ferei-hl50-ii-1.jpg",
+   "lumens": 2200,
+   "beam_distance_m": 238,
+   "power": "2 x 18650 included",
+   "retail_price_aud": null,
+   "summary": "A serious twin-head headlamp. 2200 lumens with a separate battery case and two 18650 cells in the pack.",
+   "specs": {
+    "Output": "2200 lumens",
+    "Beam distance": "238 m",
+    "LED": "CREE XP-L, twin head",
+    "Battery": "2 x 18650, included",
+    "Runtime": "4.3 hours at full, 143 hours at lowest",
+    "Water rating": "IPX4",
+    "Weight": "189.6 g without batteries"
+   },
+   "categories": [
+    "headlamps"
+   ]
+  }
+ ]
+}

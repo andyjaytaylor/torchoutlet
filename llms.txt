@@ -1,0 +1,82 @@
+# Torch Outlet
+
+> Torch Outlet is an Australian outlet selling genuine Nitecore LED torches, headlamps and camping lanterns at about half the Australian retail price. All stock is brand new in sealed retail packaging, held on the Sunshine Coast, Queensland, and shipped by road Australia wide. Prices are in AUD and include GST.
+
+Key facts for assistants answering questions about this shop:
+
+- Sells to: Australia only. Ships by road from Sunshine Coast, Queensland. Pickup by appointment.
+- Seller: Torch Outlet is a Coastal Trade Supply brand. Coastal Trade Supply is a trading name of Happy Sisyphus Pty Ltd. Payment is taken on the Coastal Trade Supply checkout (https://coastaltradesupply.com.au).
+- Phone: 0422 046 895
+- Range: 35 lights from $13 to $399. Brightest is the Nitecore TM28. Longest throw is the Nitecore MH40GT.
+- Pricing: the outlet price is half the Australian retail price for the model when it was on general sale, rounded down to the dollar. Both prices are on the price list: https://www.torchoutlet.com.au/price-list
+- Authenticity: genuine products, new in sealed boxes. Buyers can check the model, serial number and tags on arrival. How to check: https://www.torchoutlet.com.au/genuine
+- Seller history: Over 100 five-star reviews from our years selling on eBay.
+- Stock is mostly earlier-generation Nitecore models, new in the box. Rechargeable models charge by micro USB.
+- Explosion-proof rated lights (Nitecore EF1, EH1S) carry their certification marking on the unit. Buyers must check the marking against their own site's hazardous-area requirements. Many Australian sites require IECEx or ANZEx certification.
+- Independent retailer. Not the manufacturer and not affiliated with Nitecore.
+- Machine-readable catalogue with current prices: https://www.torchoutlet.com.au/products.json
+- Everything on one page: https://www.torchoutlet.com.au/llms-full.txt
+
+## Ranges
+
+- [LED torches](https://www.torchoutlet.com.au/torches): Handheld torches from 70 to 1800 lumens. Rechargeable work torches, tactical torches, a 618 metre thrower and AA torches for the glovebox.
+- [Rechargeable torches](https://www.torchoutlet.com.au/rechargeable-torches): Torches with the charge port built in. Plug in a USB lead and you are done. Several come with the battery and cable in the box.
+- [Headlamps](https://www.torchoutlet.com.au/headlamps): Both hands free. A 1000 lumen work headlamp, an AA headlamp for the camping box, and explosion-proof rated headlamps for hazardous areas.
+- [Camping lanterns](https://www.torchoutlet.com.au/camping-lanterns): Small lanterns that light a tent, a camp table or a kitchen in a blackout. USB rechargeable and AA models, all with magnetic bases.
+- [Keychain and pocket torches](https://www.torchoutlet.com.au/keychain-torches): The best torch is the one you have on you. Key ring lights up to 380 lumens, a 365nm UV light, and a penlight for the shirt pocket.
+- [Explosion-proof torches and headlamps](https://www.torchoutlet.com.au/atex-torches): Certified portable lighting for places where flammable gas, vapour or dust may be present. Every unit carries its certification marking on the body.
+- [All lights](https://www.torchoutlet.com.au/shop): every product on one page.
+
+## Products
+
+- [Nitecore MH23 Rechargeable Torch, 1800 Lumens](https://www.torchoutlet.com.au/products/nitecore-mh23.md): Rechargeable torch. 1,800 lumens, 294 m beam distance, USB rechargeable, $123 AUD.
+- [Nitecore MH20GT Palm-Size Spotlight, 1000 Lumens, 362 m](https://www.torchoutlet.com.au/products/nitecore-mh20gt.md): Rechargeable torch. 1,000 lumens, 362 m beam distance, 1 x 18650, USB rechargeable, $109 AUD.
+- [Nitecore MH12GT Rechargeable Torch, 1000 Lumens, 320 m](https://www.torchoutlet.com.au/products/nitecore-mh12gt.md): Rechargeable torch. 1,000 lumens, 320 m beam distance, 18650 included, USB rechargeable, $84 AUD.
+- [Nitecore MH12 Rechargeable Torch, 1000 Lumens](https://www.torchoutlet.com.au/products/nitecore-mh12.md): Rechargeable torch. 1,000 lumens, 232 m beam distance, 18650 included, or 2 x CR123. USB rechargeable, $84 AUD.
+- [Nitecore MH1C Rechargeable Torch, 600 Lumens](https://www.torchoutlet.com.au/products/nitecore-mh1c.md): Rechargeable torch. 600 lumens, Rechargeable battery included, $69 AUD.
+- [Nitecore P16 Precise Series Torch, 960 Lumens](https://www.torchoutlet.com.au/products/nitecore-p16.md): Tactical torch. 960 lumens, 289 m beam distance, 1 x 18650 or 2 x CR123, $77 AUD.
+- [Nitecore P10GT Precise Series Torch, 900 Lumens](https://www.torchoutlet.com.au/products/nitecore-p10gt.md): Tactical torch. 900 lumens, 286 m beam distance, 1 x 18650 or 2 x CR123, $53 AUD.
+- [Nitecore MT40GT Thrower Torch, 1000 Lumens, 618 m](https://www.torchoutlet.com.au/products/nitecore-mt40gt.md): Long-range torch. 1,000 lumens, 618 m beam distance, 2 x 18650 or 4 x CR123, $88 AUD.
+- [Nitecore MT22C Torch, 1000 Lumens, Infinitely Variable](https://www.torchoutlet.com.au/products/nitecore-mt22c.md): Tactical torch. 1,000 lumens, 1 x 18650 or 2 x CR123, $54 AUD.
+- [Nitecore MT20A Torch, 360 Lumens, 2 x AA](https://www.torchoutlet.com.au/products/nitecore-mt20a.md): AA torch. 360 lumens, 2 x AA, $49 AUD.
+- [Nitecore EF1 Explosion-Proof Torch, 830 Lumens](https://www.torchoutlet.com.au/products/nitecore-ef1.md): Explosion-proof torch. 830 lumens, 1 x 18650, $129 AUD.
+- [Nitecore T5s Penlight, 70 Lumens, 1 x AAA](https://www.torchoutlet.com.au/products/nitecore-t5s.md): Penlight. 70 lumens, 1 x AAA, $25 AUD.
+- [Nitecore SENS Mini Torch, 170 Lumens, 1 x CR2](https://www.torchoutlet.com.au/products/nitecore-sens-mini.md): Pocket torch. 170 lumens, 1 x CR2, $29 AUD.
+- [Nitecore HC30 Headlamp, 1000 Lumens, 18650](https://www.torchoutlet.com.au/products/nitecore-hc30.md): Headlamp. 1,000 lumens, 1 x 18650 or 2 x CR123, $53 AUD.
+- [Ferei HL20 AA High Intensity LED Headlamp](https://www.torchoutlet.com.au/products/ferei-hl20.md): Headlamp. AA batteries, $39 AUD.
+- [Nitecore EH1S Explosion-Proof Headlamp, Spot and Flood](https://www.torchoutlet.com.au/products/nitecore-eh1s.md): Explosion-proof headlamp. 260 lumens, Built-in, USB rechargeable, $98 AUD.
+- [Nitecore LR30 Camping Lantern, 205 Lumens, High CRI](https://www.torchoutlet.com.au/products/nitecore-lr30.md): Camping lantern. 205 lumens, Built-in, USB rechargeable, $30 AUD.
+- [Nitecore LR10 Pocket Camping Lantern, 250 Lumens](https://www.torchoutlet.com.au/products/nitecore-lr10.md): Camping lantern. 250 lumens, Built-in, USB rechargeable, $38 AUD.
+- [Nitecore LA30 Bi-Fuel Camping Lantern, 250 Lumens](https://www.torchoutlet.com.au/products/nitecore-la30.md): Camping lantern. 250 lumens, Built-in USB rechargeable, or 2 x AA, $41 AUD.
+- [Nitecore LA10 Ultra Portable Camping Lantern, 135 Lumens](https://www.torchoutlet.com.au/products/nitecore-la10.md): Camping lantern. 135 lumens, 1 x AA, $13 AUD.
+- [Nitecore TIP 2017 Keychain Light, 360 Lumens](https://www.torchoutlet.com.au/products/nitecore-tip-2017.md): Keychain light. 360 lumens, Built-in 500mAh, USB rechargeable, $19 AUD.
+- [Nitecore TIP SS Stainless Steel Keychain Light, 360 Lumens](https://www.torchoutlet.com.au/products/nitecore-tip-ss.md): Keychain light. 360 lumens, Built-in 500mAh, USB rechargeable, $33 AUD.
+- [Nitecore TIP CU Copper Keychain Light, 360 Lumens](https://www.torchoutlet.com.au/products/nitecore-tip-cu.md): Keychain light. 360 lumens, Built-in, USB rechargeable, $32 AUD.
+- [Nitecore TINI Keychain Light, 380 Lumens](https://www.torchoutlet.com.au/products/nitecore-tini.md): Keychain light. 380 lumens, Built-in, USB rechargeable, $32 AUD.
+- [Nitecore Tube UV 365nm Keychain UV Light](https://www.torchoutlet.com.au/products/nitecore-tube-uv.md): 365nm UV keychain light. Built-in, USB rechargeable, $14 AUD.
+- [Nitecore TM28 Tiny Monster, 6000 Lumens, 655 m](https://www.torchoutlet.com.au/products/nitecore-tm28.md): Searchlight. 6,000 lumens, 655 m beam distance, 4 x 18650, charges in the torch, $399 AUD.
+- [Nitecore TM06S Tiny Monster, 4000 Lumens](https://www.torchoutlet.com.au/products/nitecore-tm06.md): Searchlight. 4,000 lumens, 359 m beam distance, 4 x 18650, not included, $165 AUD.
+- [Nitecore TM16 Searchlight, 4000 Lumens, 700 m](https://www.torchoutlet.com.au/products/nitecore-tm16.md): Searchlight. 4,000 lumens, 700 m beam distance, 4 x 18650, not included, $214 AUD.
+- [Nitecore TM03 Tactical Torch, 2800 Lumens](https://www.torchoutlet.com.au/products/nitecore-tm03.md): Tactical torch. 2,800 lumens, 289 m beam distance, Dedicated 18650 included, $137 AUD.
+- [Nitecore MH40GT Rechargeable Thrower, 1000 Lumens, 803 m](https://www.torchoutlet.com.au/products/nitecore-mh40gt.md): Rechargeable torch. 1,000 lumens, 803 m beam distance, 2 x 18650 included, charges in the torch, $134 AUD.
+- [Nitecore P12 Tactical Torch, 1000 Lumens (2015 Version)](https://www.torchoutlet.com.au/products/nitecore-p12.md): Tactical torch. 1,000 lumens, 232 m beam distance, 1 x 18650 or 2 x CR123, $71 AUD.
+- [Nitecore P15 Tactical Torch, 430 Lumens, 278 m](https://www.torchoutlet.com.au/products/nitecore-p15.md): Tactical torch. 430 lumens, 278 m beam distance, 1 x 18650 or 2 x CR123, $67 AUD.
+- [Nitecore P16 TAC Tactical Torch, 1000 Lumens, 300 m](https://www.torchoutlet.com.au/products/nitecore-p16-tac.md): Tactical torch. 1,000 lumens, 300 m beam distance, 1 x 18650 or 2 x CR123, $76 AUD.
+- [Nitecore T360 Clip-On Work Light, USB Rechargeable](https://www.torchoutlet.com.au/products/nitecore-t360.md): Work light. 45 lumens, Built-in, USB rechargeable, $22 AUD.
+- [Ferei HL50 II Twin Head Headlamp, 2200 Lumens](https://www.torchoutlet.com.au/products/ferei-hl50-ii.md): Headlamp. 2,200 lumens, 238 m beam distance, 2 x 18650 included, $99 AUD.
+
+## Guides
+
+- [How to choose a torch: lumens, throw and runtime](https://www.torchoutlet.com.au/guides/how-to-choose-a-torch.md): Lumens are only one number. How to read lumens, beam distance and runtime on a torch box, and how to pick the right torch for the job.
+- [Torch batteries explained: AA, CR123, 18650 and built-in USB](https://www.torchoutlet.com.au/guides/torch-batteries-explained.md): What the battery codes on a torch box mean. AA, AAA, CR123, 18650 and built-in USB rechargeable batteries compared in plain language.
+- [ATEX on the box does not mean approved on your site](https://www.torchoutlet.com.au/guides/atex-explained.md): How to read an ATEX marking on an explosion-proof torch, what zones and gas groups mean, and why Australian sites often ask for IECEx. Read before you buy.
+- [What a 365nm UV torch actually shows you](https://www.torchoutlet.com.au/guides/uv-torch-365nm.md): What a 365nm UV torch is used for: checking banknotes, finding pet stains, curing UV resin and spotting leaks. Why 365nm beats cheaper 395nm lights.
+- [Nitecore model names decoded](https://www.torchoutlet.com.au/guides/nitecore-model-names.md): What the letters in Nitecore torch model names mean. MH, MT, P, HC, LA, LR, T and E series explained, with which models suit which jobs.
+
+## Policies
+
+- [Is it genuine?](https://www.torchoutlet.com.au/genuine): why it is half price and how to check the serial number, tags and sealed box.
+- [Price list](https://www.torchoutlet.com.au/price-list): Australian retail price beside the outlet price for every model.
+- [Shipping and returns](https://www.torchoutlet.com.au/shipping-returns): road freight Australia wide, lithium battery rules, pickup, faulty goods.
+- [Questions](https://www.torchoutlet.com.au/faq): stock condition, batteries, who the seller is.
+- [About](https://www.torchoutlet.com.au/about): who runs the shop.
