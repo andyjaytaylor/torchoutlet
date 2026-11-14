@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: P12
 - SKU: NITECORE-P12-2015
-- Buy: https://www.torchoutlet.com.au/products/nitecore-p12
+- Buy: https://torchoutlet.com.au/products/nitecore-p12
 
 This is the 2015 version of the P12, with a CREE XM-L2 U2 LED. Tail switch for on and off, side switch for modes.
 It runs on one 18650 or two CR123 cells. Batteries are not included. On its lowest setting it runs for up to 520 hours.

@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MH12GT
 - SKU: NITECORE-MH12GT
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mh12gt
+- Buy: https://torchoutlet.com.au/products/nitecore-mh12gt
 
 1000 lumens from a CREE XP-L HI V3 LED. The 18650 battery and USB cable are in the box, so it works the day it lands.
 Charge it by micro USB from the wall, the car or a power bank. A solid one-torch answer for work and home.

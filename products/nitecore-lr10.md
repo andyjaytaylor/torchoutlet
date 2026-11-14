@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: LR10
 - SKU: NITECORE-LR10
-- Buy: https://www.torchoutlet.com.au/products/nitecore-lr10
+- Buy: https://torchoutlet.com.au/products/nitecore-lr10
 
 Natural-colour light for cooking, reading and working under the bonnet.
 It charges by USB, stands on its own, sticks to steel and hangs from its built-in hook.

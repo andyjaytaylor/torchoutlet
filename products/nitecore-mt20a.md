@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MT20A
 - SKU: NITECORE-MT20A
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mt20a
+- Buy: https://torchoutlet.com.au/products/nitecore-mt20a
 
 360 lumens from a CREE XP-G2 LED, with a side switch and up to 170 hours on low.
 No charger, no special cells. Keep it in the glovebox or the kitchen drawer and it will be ready when the power goes out.

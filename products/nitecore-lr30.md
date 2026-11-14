@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: LR30
 - SKU: NITECORE-LR30
-- Buy: https://www.torchoutlet.com.au/products/nitecore-lr30
+- Buy: https://torchoutlet.com.au/products/nitecore-lr30
 
 High CRI means colours look right, which matters when you are cooking, reading a map or sorting first aid gear.
 It charges by USB and has a magnetic base, so it sticks to the car, the canopy or the fridge.

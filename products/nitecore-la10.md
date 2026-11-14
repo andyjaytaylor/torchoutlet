@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: LA10
 - SKU: NITECORE-LA10
-- Buy: https://www.torchoutlet.com.au/products/nitecore-la10
+- Buy: https://torchoutlet.com.au/products/nitecore-la10
 
 Extend the diffuser and it throws 135 lumens all around. Collapsed, it is about the size of a lipstick.
 Magnetic base, up to 23 hours on low. Tent light, tool-bag light, blackout light.

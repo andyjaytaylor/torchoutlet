@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TIP SS
 - SKU: NITECORE-TIP-SS
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tip-ss
+- Buy: https://torchoutlet.com.au/products/nitecore-tip-ss
 
 360 lumens, four brightness levels and USB charging, in a stainless body that shrugs off salt air. Three finishes: Glacier, Tropical and Jet Black.
 Same light as the standard TIP. Tougher finish.

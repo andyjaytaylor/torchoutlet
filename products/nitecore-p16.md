@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: P16
 - SKU: NITECORE-P16
-- Buy: https://www.torchoutlet.com.au/products/nitecore-p16
+- Buy: https://torchoutlet.com.au/products/nitecore-p16
 
 The P16 runs a CREE XM-L2 T6 LED with 7 modes. It takes one 18650 rechargeable cell or two CR123 batteries, whichever you have on hand.
 The integrated power indicator tells you where the battery is at before you head out.

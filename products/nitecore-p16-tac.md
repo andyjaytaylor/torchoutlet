@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: P16 TAC
 - SKU: NITECORE-P16TAC
-- Buy: https://www.torchoutlet.com.au/products/nitecore-p16-tac
+- Buy: https://torchoutlet.com.au/products/nitecore-p16-tac
 
 A CREE XM-L2 U3 LED, four brightness levels and three special modes. A spring-loaded mechanism inside protects the battery contact from hard knocks.
 It runs on one 18650 or two CR123 cells. Batteries are not included.

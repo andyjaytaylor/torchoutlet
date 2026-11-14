@@ -8,7 +8,7 @@
 - Brand: Nitecore
 - Model: TM28
 - SKU: NITECORE-TM28
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tm28
+- Buy: https://torchoutlet.com.au/products/nitecore-tm28
 
 The TM28 runs four CREE XHP35 HI LEDs off four 18650 cells. The cells charge inside the torch from the mains adaptor in the box, so there is no separate charger to buy.
 Full 6000 lumen turbo needs high-drain cells. On ordinary 18650 cells turbo is 4500 lumens. Rated IPX8 and 414 grams before batteries.

@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TM16
 - SKU: NITECORE-TM16
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tm16
+- Buy: https://torchoutlet.com.au/products/nitecore-tm16
 
 The TM16 pairs four CREE XM-L2 U2 LEDs with a wide 89 mm head, so it has both output and reach. It runs on four 18650 cells.
 Batteries are not in the box and there is no charge port. Rated IPX8 and 506 grams before batteries.

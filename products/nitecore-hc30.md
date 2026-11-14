@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: HC30
 - SKU: NITECORE-HC30
-- Buy: https://www.torchoutlet.com.au/products/nitecore-hc30
+- Buy: https://torchoutlet.com.au/products/nitecore-hc30
 
 A CREE XM-L2 U2 LED on a head that tilts 90 degrees, so the light goes where you are looking. Under the house, under the bonnet, on the night shift.
 It runs on one 18650 or two CR123 batteries, and lasts up to 400 hours on its ultralow setting.

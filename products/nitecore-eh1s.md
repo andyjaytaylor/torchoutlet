@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: EH1S
 - SKU: NITECORE-EH1S
-- Buy: https://www.torchoutlet.com.au/products/nitecore-eh1s
+- Buy: https://torchoutlet.com.au/products/nitecore-eh1s
 
 260 lumens, USB rechargeable, IP68. The certification marking is printed on the lamp and on the box.
 Before you buy, ask us for a photo of the marking on the actual unit. Check it against your site's hazardous-area requirements.

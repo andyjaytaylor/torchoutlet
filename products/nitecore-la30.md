@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: LA30
 - SKU: NITECORE-LA30
-- Buy: https://www.torchoutlet.com.au/products/nitecore-la30
+- Buy: https://torchoutlet.com.au/products/nitecore-la30
 
 250 lumens with white and red light. Red keeps your night vision and does not pull in every bug in the campground.
 The base is magnetic. Charge it by USB when you can, feed it AA batteries when you cannot.

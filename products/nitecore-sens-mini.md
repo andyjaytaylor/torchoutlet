@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: SENS Mini
 - SKU: NITECORE-SENS-MINI
-- Buy: https://www.torchoutlet.com.au/products/nitecore-sens-mini
+- Buy: https://torchoutlet.com.au/products/nitecore-sens-mini
 
 Nitecore calls it Active Dimming Technology. Point it down at a page and it dims. Lift it to look ahead and it brightens.
 170 lumens from a single CR2 battery in a body small enough for a key ring.

@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TINI
 - SKU: NITECORE-TINI
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tini
+- Buy: https://torchoutlet.com.au/products/nitecore-tini
 
 Four brightness levels plus SOS, a metal body and a built-in battery that charges by USB.
 It lives on the key ring and gets used every day.

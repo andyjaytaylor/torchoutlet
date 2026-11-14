@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MT40GT
 - SKU: NITECORE-MT40GT
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mt40gt
+- Buy: https://torchoutlet.com.au/products/nitecore-mt40gt
 
 A big reflector and a CREE XP-L HI LED do one job: put light a long way away. It runs 3 hours on high.
 Power comes from two 18650 cells or four CR123 batteries.

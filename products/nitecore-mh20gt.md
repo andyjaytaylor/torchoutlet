@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MH20GT
 - SKU: NITECORE-MH20GT
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mh20gt
+- Buy: https://torchoutlet.com.au/products/nitecore-mh20gt
 
 The GT in the name is the long-throw version. A CREE XP-L HI V3 LED and a deep reflector put the light where you point it, well past the far fence.
 It runs on a single 18650 cell and charges by micro USB without taking the battery out.

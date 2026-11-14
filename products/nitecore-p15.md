@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: P15
 - SKU: NITECORE-P15
-- Buy: https://www.torchoutlet.com.au/products/nitecore-p15
+- Buy: https://torchoutlet.com.au/products/nitecore-p15
 
 The P15 uses a CREE XP-G2 LED and a deep reflector. It has four brightness levels plus strobe, SOS and beacon, and a power indicator.
 It runs on one 18650 or two CR123 cells and lasts up to 520 hours on its lowest setting.

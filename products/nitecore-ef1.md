@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: EF1
 - SKU: NITECORE-EF1
-- Buy: https://www.torchoutlet.com.au/products/nitecore-ef1
+- Buy: https://torchoutlet.com.au/products/nitecore-ef1
 
 The box is marked ATEX II 2 G Ex d IIC T6 Gb. In plain terms: a flameproof torch for Zone 1 gas atmospheres in surface industry. It is not a Group I underground mining rating.
 Before you buy, ask us for a photo of the marking and certificate number on the actual unit, and check them against your site's hazardous-area requirements. Use only the battery named in the manual.

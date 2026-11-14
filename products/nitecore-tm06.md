@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TM06S
 - SKU: NITECORE-TM06S
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tm06
+- Buy: https://torchoutlet.com.au/products/nitecore-tm06
 
 The TM06S uses four CREE XM-L2 U3 LEDs and four 18650 cells. It is a flood of light more than a pencil beam, which is what you want for a yard, a shed or a campsite.
 Batteries are not in the box and it has no charge port, so you will need 18650 cells and a charger. Rated IPX8 and 266 grams before batteries.

@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: T360
 - SKU: NITECORE-T360
-- Buy: https://www.torchoutlet.com.au/products/nitecore-t360
+- Buy: https://torchoutlet.com.au/products/nitecore-t360
 
 45 lumens is the right amount for close work: reading, tying a knot, finding the keyhole. It sits in a rotating bracket with a clip, and a headband is included.
 The battery is built in and charges by micro USB. Rated IP65.

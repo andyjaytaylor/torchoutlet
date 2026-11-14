@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TIP CU
 - SKU: NITECORE-TIP-CU
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tip-cu
+- Buy: https://torchoutlet.com.au/products/nitecore-tip-cu
 
 360 lumens and USB charging, same as the standard TIP.
 Copper darkens and marks with use, so no two end up looking the same. Polish it back or let it age.

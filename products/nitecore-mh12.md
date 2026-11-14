@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MH12
 - SKU: NITECORE-MH12
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mh12
+- Buy: https://torchoutlet.com.au/products/nitecore-mh12
 
 The MH12 uses a CREE XM-L2 U2 LED with a wider, more even beam than the GT model. It throws 232 metres, which covers most jobs you will ever point it at.
 It charges by micro USB from the ute, the wall or a laptop. Battery and cable are included.

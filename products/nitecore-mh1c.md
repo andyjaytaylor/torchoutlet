@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MH1C
 - SKU: NITECORE-MH1C
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mh1c
+- Buy: https://torchoutlet.com.au/products/nitecore-mh1c
 
 600 lumens from a CREE XM-L2 LED in a body short enough for a jeans pocket.
 Charge it by micro USB. It is the cheapest way into a proper rechargeable torch on our shelf.

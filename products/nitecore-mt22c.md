@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MT22C
 - SKU: NITECORE-MT22C
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mt22c
+- Buy: https://torchoutlet.com.au/products/nitecore-mt22c
 
 The rotary switch gives stepless brightness, so you set exactly the light you want. Low enough to read a map, high enough to light the yard.
 It uses a CREE XP-L HD V6 LED and runs on one 18650 or two CR123 batteries.

@@ -8,7 +8,7 @@
 - Brand: Nitecore
 - Model: T5s
 - SKU: NITECORE-T5S
-- Buy: https://www.torchoutlet.com.au/products/nitecore-t5s
+- Buy: https://torchoutlet.com.au/products/nitecore-t5s
 
 70 lumens is the right amount for close work. Enough to see inside a switchboard or a throat, low enough not to blind you off a white wall.
 Up to 28 hours on low from one AAA.

@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TIP 2017
 - SKU: NITECORE-TIP-2017
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tip-2017
+- Buy: https://torchoutlet.com.au/products/nitecore-tip-2017
 
 Four brightness levels, a lockout mode so it does not switch on in your pocket, and up to 46 hours on low.
 It is the torch you will actually have on you. For the ute, the toolbox and the back door.

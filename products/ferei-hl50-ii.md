@@ -8,7 +8,7 @@
 - Brand: Ferei
 - Model: HL50 II
 - SKU: FEREI-HL50II
-- Buy: https://www.torchoutlet.com.au/products/ferei-hl50-ii
+- Buy: https://torchoutlet.com.au/products/ferei-hl50-ii
 
 Brightness adjusts from 3 percent up to full. On the lowest setting the maker lists 143 hours of runtime, and 4.3 hours at full output.
 Rated IPX4 for rain. Ask us what is in the pack before you buy, because we are confirming whether a charger is included.

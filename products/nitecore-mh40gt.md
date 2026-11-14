@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: MH40GT
 - SKU: NITECORE-MH40GT
-- Buy: https://www.torchoutlet.com.au/products/nitecore-mh40gt
+- Buy: https://torchoutlet.com.au/products/nitecore-mh40gt
 
 A CREE XP-L HI V3 LED sits in a deep 60 mm reflector. That is what turns 1000 lumens into 803 metres.
 Two 18650 cells are included and charge inside the torch. The charger is a mains adaptor with a barrel plug, not USB.

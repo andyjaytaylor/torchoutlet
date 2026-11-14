@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: TM03
 - SKU: NITECORE-TM03
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tm03
+- Buy: https://torchoutlet.com.au/products/nitecore-tm03
 
 It uses a CREE XHP70 LED and a dedicated high-drain 18650 cell, which is in the box. Full output needs that dedicated cell.
 There is no charge port on the torch and no charger in the box, so you will need an 18650 charger. Rated IPX8, 213 grams.

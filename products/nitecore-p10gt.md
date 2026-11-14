@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: P10GT
 - SKU: NITECORE-P10GT
-- Buy: https://www.torchoutlet.com.au/products/nitecore-p10gt
+- Buy: https://torchoutlet.com.au/products/nitecore-p10gt
 
 The P10GT uses a CREE XP-L HI V3 LED for a tight, long beam from a short body.
 It runs on one 18650 or two CR123 batteries. The tactical tail switch gives you instant on, and strobe is always ready.

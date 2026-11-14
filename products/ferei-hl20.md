@@ -8,7 +8,7 @@
 - Brand: Ferei
 - Model: HL20 AA
 - SKU: FEREI-HL20AA
-- Buy: https://www.torchoutlet.com.au/products/ferei-hl20
+- Buy: https://torchoutlet.com.au/products/ferei-hl20
 
 Long runtime, a tilting head, and batteries you can buy at any servo.
 A good second headlamp for the camping box or the ute.

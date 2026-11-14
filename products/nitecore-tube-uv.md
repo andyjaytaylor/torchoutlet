@@ -9,7 +9,7 @@
 - Brand: Nitecore
 - Model: Tube UV
 - SKU: NITECORE-TUBE-UV
-- Buy: https://www.torchoutlet.com.au/products/nitecore-tube-uv
+- Buy: https://torchoutlet.com.au/products/nitecore-tube-uv
 
 365nm is the useful end of UV. It makes security features, stains and UV-reactive materials glow without washing them out in purple light.
 Check banknotes, find pet stains, cure UV resin and glue, and read security marks.
