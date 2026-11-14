@@ -153,7 +153,7 @@
         if (!v.ok) { n.disabled = true; n.textContent = 'Sold out'; }
       }
       if (CFG.livePrice && n.hasAttribute('data-price-out')) { n.textContent = money(v.price); }
-      if (n.hasAttribute('data-stock-out')) { n.textContent = v.ok ? 'In stock, Sunshine Coast' : 'Sold out'; n.classList.toggle('out', !v.ok); }
+      if (n.hasAttribute('data-stock-out')) { n.textContent = v.ok ? 'In stock, Brisbane' : 'Sold out'; n.classList.toggle('out', !v.ok); }
     });
     syncBuyNow();
   }
