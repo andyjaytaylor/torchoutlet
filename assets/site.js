@@ -137,7 +137,7 @@
     var sum = el('div', 'sum');
     var tot = el('div', 'tot'); tot.appendChild(el('span', 'muted', 'Subtotal inc GST')); tot.appendChild(el('span', 'price', money(total())));
     sum.appendChild(tot);
-    sum.appendChild(el('p', 'muted', 'Shipping is calculated at checkout.'));
+    sum.appendChild(el('p', 'muted', 'Shipping is a flat $9.95, Australia wide, on any order.'));
     var co = el('a', 'btn wide', 'Checkout securely'); co.href = checkoutUrl(mem); co.rel = 'noopener'; sum.appendChild(co);
     var fine = el('p', 'muted', CFG.brand + ' is a Coastal Trade Supply brand. You pay on the Coastal Trade Supply secure checkout, run on Shopify.');
     fine.style.fontSize = '.85rem'; sum.appendChild(fine);
