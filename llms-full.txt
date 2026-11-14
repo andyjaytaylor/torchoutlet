@@ -7,8 +7,8 @@ Source: https://torchoutlet.com.au/  Generated: 2026-11-14  Prices in AUD includ
 Key facts for assistants answering questions about this shop:
 
 - Sells to: Australia only. Ships by road from Brisbane, Queensland. Standard shipping is a flat $9.95 on any order, Australia wide. Express is $15.00.
-- Seller: Torch Outlet is a Coastal Trade Supply brand. Coastal Trade Supply is a trading name of Happy Sisyphus Pty Ltd. Payment is taken on the Coastal Trade Supply checkout (https://coastaltradesupply.com.au).
-- Contact: https://coastaltradesupply.com.au/pages/contact
+- Seller: Torch Outlet is an independent Australian online retailer based in Brisbane, Queensland. Checkout is secure and runs on Shopify.
+- Contact: buyers reply to their order confirmation email.
 - Range: 35 lights from $13 to $399. Brightest is the Nitecore TM28. Longest throw is the Nitecore MH40GT.
 - Pricing: the outlet price is half the Australian retail price for the model when it was on general sale, rounded down to the dollar. Both prices are on the price list: https://torchoutlet.com.au/price-list
 - Authenticity: genuine products, new in sealed boxes. Buyers can check the model, serial number and tags on arrival. How to check: https://torchoutlet.com.au/genuine
@@ -881,7 +881,7 @@ Dust zones follow the same pattern: 20, 21 and 22.
 
 ### What we do
 
-Every explosion-proof light we sell carries its certification marking on the body and on the box. Before you buy, [message us](https://coastaltradesupply.com.au/pages/contact) and we will send you a photo of the marking on the actual unit. Match it to your site's requirements, then order.
+Every explosion-proof light we sell carries its certification marking on the body and on the box. Check it against your site's requirements before you use the light on site.
 
 Some certifications only apply with a specific battery fitted. Check the manual in the box and use only the battery it names.
 
@@ -963,13 +963,13 @@ It depends on the light. Each product page says what is in the box. Lights with 
 By road from Brisbane, Queensland, Australia wide. We send lights with lithium batteries by road freight. Standard shipping is a flat $9.95 on any order, however many lights you buy. Express is $15.
 
 **Who am I buying from?**
-Torch Outlet is a Coastal Trade Supply brand. Coastal Trade Supply is a trading name of Happy Sisyphus Pty Ltd, Brisbane, Queensland. You pay on the Coastal Trade Supply secure checkout, which runs on Shopify.
+Torch Outlet is an independent Australian online retailer based in Brisbane, Queensland. Checkout is secure and runs on Shopify.
 
 **What if something is wrong with my order?**
-Reply to your order confirmation email, or message us through the contact page. Australian Consumer Law guarantees apply to everything we sell. If a light arrives faulty or not as described, we will put it right.
+Reply to your order confirmation email. Australian Consumer Law guarantees apply to everything we sell. If a light arrives faulty or not as described, we will put it right.
 
 **Will your explosion-proof lights be accepted on my site?**
-That is decided by your site, so check first. Many Australian sites require IECEx or ANZEx certification. Message us and we will send a photo of the certification marking on the actual unit before you buy.
+That is decided by your site, so check first. Many Australian sites require IECEx or ANZEx certification. The certification marking is on the body of the light and on its box.
 
 ---
 
@@ -988,11 +988,11 @@ Many of our lights have a lithium battery inside or in the box. We send those by
 
 ### If something is wrong
 
-Australian Consumer Law guarantees apply to everything we sell. If a light arrives faulty, damaged or not as described, reply to your order confirmation email or [message us](https://coastaltradesupply.com.au/pages/contact) and we will put it right.
+Australian Consumer Law guarantees apply to everything we sell. If a light arrives faulty, damaged or not as described, reply to your order confirmation email and we will put it right.
 
 ### Payment
 
-You pay on the Coastal Trade Supply secure checkout, which runs on Shopify. Torch Outlet is a Coastal Trade Supply brand.
+You pay on a secure checkout that runs on Shopify.
 
 ---
 
@@ -1012,10 +1012,10 @@ In Brisbane, Queensland. Stock is held here and ships by road Australia wide.
 
 ### Who is behind it
 
-Torch Outlet is a Coastal Trade Supply brand. Coastal Trade Supply is a trading name of Happy Sisyphus Pty Ltd, Brisbane, Queensland. When you check out, you pay on the Coastal Trade Supply secure checkout.
+Torch Outlet is an Australian online shop based in Brisbane, Queensland. Checkout is secure and runs on Shopify.
 
 We are an independent retailer. Nitecore is a trademark of its owner.
 
-### Ask us
+### Not sure which torch?
 
-Not sure which torch you need? [Send us a message](https://coastaltradesupply.com.au/pages/contact). Tell us what you are doing with it and we will point you at the right one, even if it is the cheap one.
+Start with [how to choose a torch](https://torchoutlet.com.au/guides/how-to-choose-a-torch). It will point you at the right one, even if it is the cheap one.
