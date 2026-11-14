@@ -1,4 +1,4 @@
-/* Torch Outlet storefront script. Cart lives in the browser; checkout hands off to the parent store. */
+/* Torch Outlet storefront script. Cart lives in the browser; checkout runs on Shopify. */
 (function () {
   var S = document.currentScript || document.querySelector('script[data-root]');
   var CFG = {
@@ -139,7 +139,7 @@
     sum.appendChild(tot);
     sum.appendChild(el('p', 'muted', 'Shipping is a flat $9.95, Australia wide, on any order.'));
     var co = el('a', 'btn wide', 'Checkout securely'); co.href = checkoutUrl(mem); co.rel = 'noopener'; sum.appendChild(co);
-    var fine = el('p', 'muted', CFG.brand + ' is a Coastal Trade Supply brand. You pay on the Coastal Trade Supply secure checkout, run on Shopify.');
+    var fine = el('p', 'muted', 'Secure checkout, run on Shopify.');
     fine.style.fontSize = '.85rem'; sum.appendChild(fine);
     grid.appendChild(lines); grid.appendChild(sum); root.appendChild(grid);
   }
