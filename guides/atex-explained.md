@@ -37,7 +37,7 @@ Dust zones follow the same pattern: 20, 21 and 22.
 
 ## What we do
 
-Every explosion-proof light we sell carries its certification marking on the body and on the box. Before you buy, call us and we will send you a photo of the marking on the actual unit. Match it to your site's requirements, then order.
+Every explosion-proof light we sell carries its certification marking on the body and on the box. Before you buy, [message us](https://coastaltradesupply.com.au/pages/contact) and we will send you a photo of the marking on the actual unit. Match it to your site's requirements, then order.
 
 Some certifications only apply with a specific battery fitted. Check the manual in the box and use only the battery it names.
 
