@@ -2,7 +2,7 @@
 
 > The brightest torch on our shelf, and one of the smallest. 1800 lumens from a body that weighs less than your phone.
 
-- Outlet price: $123 AUD including GST
+- Outlet price: $115 AUD including GST
 - Australian retail price when on general sale: $246
 - Availability: in stock (live status on the product page)
 - Condition: new, sealed retail packaging
