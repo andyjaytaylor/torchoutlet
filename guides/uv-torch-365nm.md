@@ -19,4 +19,4 @@ Cheap UV torches run at 395nm and throw a lot of visible purple light. That purp
 
 Do not shine a UV light into anyone's eyes, and do not stare at the LED.
 
-The [Nitecore Tube UV](https://www.torchoutlet.com.au/products/nitecore-tube-uv) is a 365nm light that weighs 10 grams, lives on a key ring and charges by USB.
+The [Nitecore Tube UV](https://torchoutlet.com.au/products/nitecore-tube-uv) is a 365nm light that weighs 10 grams, lives on a key ring and charges by USB.

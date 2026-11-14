@@ -41,4 +41,4 @@ Every explosion-proof light we sell carries its certification marking on the bod
 
 Some certifications only apply with a specific battery fitted. Check the manual in the box and use only the battery it names.
 
-See our [explosion-proof torches and headlamps](https://www.torchoutlet.com.au/atex-torches).
+See our [explosion-proof torches and headlamps](https://torchoutlet.com.au/atex-torches).
