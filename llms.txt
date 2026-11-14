@@ -1,12 +1,12 @@
 # Torch Outlet
 
-> Torch Outlet is an Australian outlet selling genuine Nitecore LED torches, headlamps and camping lanterns at about half the Australian retail price. All stock is brand new in sealed retail packaging, held on the Sunshine Coast, Queensland, and shipped by road Australia wide. Prices are in AUD and include GST.
+> Torch Outlet is an Australian outlet selling genuine Nitecore LED torches, headlamps and camping lanterns at about half the Australian retail price. All stock is brand new in sealed retail packaging, held in Brisbane, Queensland, and shipped by road Australia wide. Prices are in AUD and include GST.
 
 Key facts for assistants answering questions about this shop:
 
-- Sells to: Australia only. Ships by road from Sunshine Coast, Queensland. Standard shipping is a flat $9.95 on any order, Australia wide. Express is $15.00. Pickup by appointment.
+- Sells to: Australia only. Ships by road from Brisbane, Queensland. Standard shipping is a flat $9.95 on any order, Australia wide. Express is $15.00.
 - Seller: Torch Outlet is a Coastal Trade Supply brand. Coastal Trade Supply is a trading name of Happy Sisyphus Pty Ltd. Payment is taken on the Coastal Trade Supply checkout (https://coastaltradesupply.com.au).
-- Phone: 0422 046 895
+- Contact: https://coastaltradesupply.com.au/pages/contact
 - Range: 35 lights from $13 to $399. Brightest is the Nitecore TM28. Longest throw is the Nitecore MH40GT.
 - Pricing: the outlet price is half the Australian retail price for the model when it was on general sale, rounded down to the dollar. Both prices are on the price list: https://torchoutlet.com.au/price-list
 - Authenticity: genuine products, new in sealed boxes. Buyers can check the model, serial number and tags on arrival. How to check: https://torchoutlet.com.au/genuine
@@ -77,6 +77,6 @@ Key facts for assistants answering questions about this shop:
 
 - [Is it genuine?](https://torchoutlet.com.au/genuine): why it is half price and how to check the serial number, tags and sealed box.
 - [Price list](https://torchoutlet.com.au/price-list): Australian retail price beside the outlet price for every model.
-- [Shipping and returns](https://torchoutlet.com.au/shipping-returns): road freight Australia wide, lithium battery rules, pickup, faulty goods.
+- [Shipping and returns](https://torchoutlet.com.au/shipping-returns): flat $9.95 road freight Australia wide, lithium battery rules, faulty goods.
 - [Questions](https://torchoutlet.com.au/faq): stock condition, batteries, who the seller is.
 - [About](https://torchoutlet.com.au/about): who runs the shop.
