@@ -1,6 +1,6 @@
 # Torch Outlet: full catalogue and guides
 
-Source: https://www.torchoutlet.com.au/  Generated: 2026-11-13  Prices in AUD including GST.
+Source: https://torchoutlet.com.au/  Generated: 2026-11-14  Prices in AUD including GST.
 
 > Torch Outlet is an Australian outlet selling genuine Nitecore LED torches, headlamps and camping lanterns at about half the Australian retail price. All stock is brand new in sealed retail packaging, held on the Sunshine Coast, Queensland, and shipped by road Australia wide. Prices are in AUD and include GST.
 
@@ -10,8 +10,8 @@ Key facts for assistants answering questions about this shop:
 - Seller: Torch Outlet is a Coastal Trade Supply brand. Coastal Trade Supply is a trading name of Happy Sisyphus Pty Ltd. Payment is taken on the Coastal Trade Supply checkout (https://coastaltradesupply.com.au).
 - Phone: 0422 046 895
 - Range: 35 lights from $13 to $399. Brightest is the Nitecore TM28. Longest throw is the Nitecore MH40GT.
-- Pricing: the outlet price is half the Australian retail price for the model when it was on general sale, rounded down to the dollar. Both prices are on the price list: https://www.torchoutlet.com.au/price-list
-- Authenticity: genuine products, new in sealed boxes. Buyers can check the model, serial number and tags on arrival. How to check: https://www.torchoutlet.com.au/genuine
+- Pricing: the outlet price is half the Australian retail price for the model when it was on general sale, rounded down to the dollar. Both prices are on the price list: https://torchoutlet.com.au/price-list
+- Authenticity: genuine products, new in sealed boxes. Buyers can check the model, serial number and tags on arrival. How to check: https://torchoutlet.com.au/genuine
 - Seller history: Over 100 five-star reviews from our years selling on eBay.
 - Stock is mostly earlier-generation Nitecore models, new in the box. Rechargeable models charge by micro USB.
 - Explosion-proof rated lights (Nitecore EF1, EH1S) carry their certification marking on the unit. Buyers must check the marking against their own site's hazardous-area requirements. Many Australian sites require IECEx or ANZEx certification.
@@ -28,7 +28,7 @@ The brightest torch on our shelf, and one of the smallest. 1800 lumens from a bo
 The MH23 runs a CREE XHP35 HD LED and throws a beam 294 metres. It charges by micro USB, so the lead in your ute or on your desk will do the job.
 It is rated IPX8 waterproof and comes in under 100 grams. Pocket it, clip it, forget it is there until you need to light up the whole back paddock.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mh23
+- URL: https://torchoutlet.com.au/products/nitecore-mh23
 - Price: $123 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -49,7 +49,7 @@ A spotlight you can close your hand around. 1000 lumens pushed into a tight beam
 The GT in the name is the long-throw version. A CREE XP-L HI V3 LED and a deep reflector put the light where you point it, well past the far fence.
 It runs on a single 18650 cell and charges by micro USB without taking the battery out.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mh20gt
+- URL: https://torchoutlet.com.au/products/nitecore-mh20gt
 - Price: $109 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -70,7 +70,7 @@ Everything people like about the MH12, with a tighter beam that reaches 320 metr
 Charge it by micro USB from the wall, the car or a power bank. A solid one-torch answer for work and home.
 This is the original MH12GT, new in the box. Nitecore has since released the MH12 V2 and MH12 Pro.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mh12gt
+- URL: https://torchoutlet.com.au/products/nitecore-mh12gt
 - Price: $84 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -92,7 +92,7 @@ The MH12 uses a CREE XM-L2 U2 LED with a wider, more even beam than the GT model
 It charges by micro USB from the ute, the wall or a laptop. Battery and cable are included.
 This is the original MH12, new in the box. Nitecore has since released the MH12 V2 and MH12 Pro.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mh12
+- URL: https://torchoutlet.com.au/products/nitecore-mh12
 - Price: $84 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -113,7 +113,7 @@ A pocket-sized rechargeable that does not ask you to buy anything else. Battery 
 600 lumens from a CREE XM-L2 LED in a body short enough for a jeans pocket.
 Charge it by micro USB. It is the cheapest way into a proper rechargeable torch on our shelf.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mh1c
+- URL: https://torchoutlet.com.au/products/nitecore-mh1c
 - Price: $69 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -134,7 +134,7 @@ The P16 runs a CREE XM-L2 T6 LED with 7 modes. It takes one 18650 rechargeable c
 The integrated power indicator tells you where the battery is at before you head out.
 This is the original P16, new in the box. Nitecore has since released the P20i.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-p16
+- URL: https://torchoutlet.com.au/products/nitecore-p16
 - Price: $77 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -156,7 +156,7 @@ The P10GT uses a CREE XP-L HI V3 LED for a tight, long beam from a short body.
 It runs on one 18650 or two CR123 batteries. The tactical tail switch gives you instant on, and strobe is always ready.
 This is the original P10GT, new in the box. Nitecore has since released the P10 V2 and P10i.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-p10gt
+- URL: https://torchoutlet.com.au/products/nitecore-p10gt
 - Price: $53 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -177,7 +177,7 @@ A big reflector and a CREE XP-L HI LED do one job: put light a long way away. It
 Power comes from two 18650 cells or four CR123 batteries.
 This is the original MT40GT, new in the box. Nitecore has since released the MH40GT.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mt40gt
+- URL: https://torchoutlet.com.au/products/nitecore-mt40gt
 - Price: $88 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -200,7 +200,7 @@ No modes to click through. Twist the ring and the MT22C goes smoothly from 0.5 l
 The rotary switch gives stepless brightness, so you set exactly the light you want. Low enough to read a map, high enough to light the yard.
 It uses a CREE XP-L HD V6 LED and runs on one 18650 or two CR123 batteries.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mt22c
+- URL: https://torchoutlet.com.au/products/nitecore-mt22c
 - Price: $54 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -220,7 +220,7 @@ A proper torch that runs on two AA batteries. The kind you can buy at any servo 
 No charger, no special cells. Keep it in the glovebox or the kitchen drawer and it will be ready when the power goes out.
 This is the original MT20A, new in the box. Nitecore has since released the MT2A Pro.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mt20a
+- URL: https://torchoutlet.com.au/products/nitecore-mt20a
 - Price: $49 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -240,7 +240,7 @@ An explosion-proof rated handheld torch for hazardous areas. 830 lumens from a s
 The box is marked ATEX II 2 G Ex d IIC T6 Gb. In plain terms: a flameproof torch for Zone 1 gas atmospheres in surface industry. It is not a Group I underground mining rating.
 Before you buy, ask us for a photo of the marking and certificate number on the actual unit, and check them against your site's hazardous-area requirements. Use only the battery named in the manual.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-ef1
+- URL: https://torchoutlet.com.au/products/nitecore-ef1
 - Price: $129 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -259,7 +259,7 @@ A pen-sized light that clips in a shirt pocket and runs on a single AAA battery.
 70 lumens is the right amount for close work. Enough to see inside a switchboard or a throat, low enough not to blind you off a white wall.
 Up to 28 hours on low from one AAA.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-t5s
+- URL: https://torchoutlet.com.au/products/nitecore-t5s
 - Price: $25 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -278,7 +278,7 @@ A keychain-sized torch that changes brightness by how you hold it.
 Nitecore calls it Active Dimming Technology. Point it down at a page and it dims. Lift it to look ahead and it brightens.
 170 lumens from a single CR2 battery in a body small enough for a key ring.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-sens-mini
+- URL: https://torchoutlet.com.au/products/nitecore-sens-mini
 - Price: $29 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -297,7 +297,7 @@ A CREE XM-L2 U2 LED on a head that tilts 90 degrees, so the light goes where you
 It runs on one 18650 or two CR123 batteries, and lasts up to 400 hours on its ultralow setting.
 This is the original HC30, new in the box. Nitecore has since released the HC33 and HC65.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-hc30
+- URL: https://torchoutlet.com.au/products/nitecore-hc30
 - Price: $53 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -317,7 +317,7 @@ A work and camping headlamp that runs on AA batteries. No charger needed.
 Long runtime, a tilting head, and batteries you can buy at any servo.
 A good second headlamp for the camping box or the ute.
 
-- URL: https://www.torchoutlet.com.au/products/ferei-hl20
+- URL: https://torchoutlet.com.au/products/ferei-hl20
 - Price: $39 AUD inc GST
 - Condition: new, sealed
 - Brand: Ferei
@@ -335,7 +335,7 @@ The EH1 with two beams. A spot for distance and a flood for close work, in an ex
 260 lumens, USB rechargeable, IP68. The certification marking is printed on the lamp and on the box.
 Before you buy, ask us for a photo of the marking on the actual unit. Check it against your site's hazardous-area requirements.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-eh1s
+- URL: https://torchoutlet.com.au/products/nitecore-eh1s
 - Price: $98 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -356,7 +356,7 @@ A camp table lantern that makes food look like food. 205 lumens of high CRI ligh
 High CRI means colours look right, which matters when you are cooking, reading a map or sorting first aid gear.
 It charges by USB and has a magnetic base, so it sticks to the car, the canopy or the fridge.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-lr30
+- URL: https://torchoutlet.com.au/products/nitecore-lr30
 - Price: $30 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -377,7 +377,7 @@ A lantern that folds flat into a pocket. 250 lumens of high CRI light with a mag
 Natural-colour light for cooking, reading and working under the bonnet.
 It charges by USB, stands on its own, sticks to steel and hangs from its built-in hook.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-lr10
+- URL: https://torchoutlet.com.au/products/nitecore-lr10
 - Price: $38 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -398,7 +398,7 @@ A rechargeable lantern that keeps going when the power does not. Run it on the b
 250 lumens with white and red light. Red keeps your night vision and does not pull in every bug in the campground.
 The base is magnetic. Charge it by USB when you can, feed it AA batteries when you cannot.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-la30
+- URL: https://torchoutlet.com.au/products/nitecore-la30
 - Price: $41 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -420,7 +420,7 @@ Extend the diffuser and it throws 135 lumens all around. Collapsed, it is about 
 Magnetic base, up to 23 hours on low. Tent light, tool-bag light, blackout light.
 This is the original LA10, new in the box. Nitecore has since released the LA10 CRI.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-la10
+- URL: https://torchoutlet.com.au/products/nitecore-la10
 - Price: $13 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -441,7 +441,7 @@ Four brightness levels, a lockout mode so it does not switch on in your pocket, 
 It is the torch you will actually have on you. For the ute, the toolbox and the back door.
 This is the original TIP 2017, new in the box. Nitecore has since released the TIP SE and TIP3.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tip-2017
+- URL: https://torchoutlet.com.au/products/nitecore-tip-2017
 - Price: $19 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -469,7 +469,7 @@ The TIP keychain light in stainless steel. Heavier in the hand and made for life
 Same light as the standard TIP. Tougher finish.
 This is the original TIP SS, new in the box. Nitecore has since released the TIP SE and TIP3.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tip-ss
+- URL: https://torchoutlet.com.au/products/nitecore-tip-ss
 - Price: $33 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -493,7 +493,7 @@ The collector's TIP. A solid copper body that develops its own patina the more y
 Copper darkens and marks with use, so no two end up looking the same. Polish it back or let it age.
 This is the original TIP CU, new in the box. Nitecore has since released the TIP SE and TIP3.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tip-cu
+- URL: https://torchoutlet.com.au/products/nitecore-tip-cu
 - Price: $32 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -513,7 +513,7 @@ Four brightness levels plus SOS, a metal body and a built-in battery that charge
 It lives on the key ring and gets used every day.
 This is the original TINI, new in the box. Nitecore has since released the TINI 2 and TINI 3.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tini
+- URL: https://torchoutlet.com.au/products/nitecore-tini
 - Price: $32 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -535,7 +535,7 @@ A 365nm UV light that weighs 10 grams and charges by USB.
 Check banknotes, find pet stains, cure UV resin and glue, and read security marks.
 This is the original Tube UV, new in the box. Nitecore has since released the TIKI UV.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tube-uv
+- URL: https://torchoutlet.com.au/products/nitecore-tube-uv
 - Price: $14 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -555,7 +555,7 @@ The biggest light on our shelf. Four LEDs, 6000 lumens, a 655 metre beam and an 
 The TM28 runs four CREE XHP35 HI LEDs off four 18650 cells. The cells charge inside the torch from the mains adaptor in the box, so there is no separate charger to buy.
 Full 6000 lumen turbo needs high-drain cells. On ordinary 18650 cells turbo is 4500 lumens. Rated IPX8 and 414 grams before batteries.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tm28
+- URL: https://torchoutlet.com.au/products/nitecore-tm28
 - Price: $399 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -578,7 +578,7 @@ Full 6000 lumen turbo needs high-drain cells. On ordinary 18650 cells turbo is 4
 The TM06S uses four CREE XM-L2 U3 LEDs and four 18650 cells. It is a flood of light more than a pencil beam, which is what you want for a yard, a shed or a campsite.
 Batteries are not in the box and it has no charge port, so you will need 18650 cells and a charger. Rated IPX8 and 266 grams before batteries.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tm06
+- URL: https://torchoutlet.com.au/products/nitecore-tm06
 - Price: $165 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -600,7 +600,7 @@ A handheld searchlight. 4000 lumens pushed 700 metres by four deep reflectors.
 The TM16 pairs four CREE XM-L2 U2 LEDs with a wide 89 mm head, so it has both output and reach. It runs on four 18650 cells.
 Batteries are not in the box and there is no charge port. Rated IPX8 and 506 grams before batteries.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tm16
+- URL: https://torchoutlet.com.au/products/nitecore-tm16
 - Price: $214 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -622,7 +622,7 @@ Batteries are not in the box and there is no charge port. Rated IPX8 and 506 gra
 It uses a CREE XHP70 LED and a dedicated high-drain 18650 cell, which is in the box. Full output needs that dedicated cell.
 There is no charge port on the torch and no charger in the box, so you will need an 18650 charger. Rated IPX8, 213 grams.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-tm03
+- URL: https://torchoutlet.com.au/products/nitecore-tm03
 - Price: $137 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -645,7 +645,7 @@ The longest beam we sell. 1000 lumens focused into a spot that reaches 803 metre
 A CREE XP-L HI V3 LED sits in a deep 60 mm reflector. That is what turns 1000 lumens into 803 metres.
 Two 18650 cells are included and charge inside the torch. The charger is a mains adaptor with a barrel plug, not USB.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-mh40gt
+- URL: https://torchoutlet.com.au/products/nitecore-mh40gt
 - Price: $134 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -668,7 +668,7 @@ A compact tactical torch. 1000 lumens and a 232 metre beam from a body that weig
 This is the 2015 version of the P12, with a CREE XM-L2 U2 LED. Tail switch for on and off, side switch for modes.
 It runs on one 18650 or two CR123 cells. Batteries are not included. On its lowest setting it runs for up to 520 hours.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-p12
+- URL: https://torchoutlet.com.au/products/nitecore-p12
 - Price: $71 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -690,7 +690,7 @@ Built for reach, not flood. 430 lumens in a tight beam that carries 278 metres.
 The P15 uses a CREE XP-G2 LED and a deep reflector. It has four brightness levels plus strobe, SOS and beacon, and a power indicator.
 It runs on one 18650 or two CR123 cells and lasts up to 520 hours on its lowest setting.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-p15
+- URL: https://torchoutlet.com.au/products/nitecore-p15
 - Price: $67 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -712,7 +712,7 @@ The tactical version of the P16. 1000 lumens, 300 metres, and a tail switch you 
 A CREE XM-L2 U3 LED, four brightness levels and three special modes. A spring-loaded mechanism inside protects the battery contact from hard knocks.
 It runs on one 18650 or two CR123 cells. Batteries are not included.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-p16-tac
+- URL: https://torchoutlet.com.au/products/nitecore-p16-tac
 - Price: $76 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -734,7 +734,7 @@ A 20 gram light that clips to a cap, a pocket or a pack strap and turns all the 
 45 lumens is the right amount for close work: reading, tying a knot, finding the keyhole. It sits in a rotating bracket with a clip, and a headband is included.
 The battery is built in and charges by micro USB. Rated IP65.
 
-- URL: https://www.torchoutlet.com.au/products/nitecore-t360
+- URL: https://torchoutlet.com.au/products/nitecore-t360
 - Price: $22 AUD inc GST
 - Condition: new, sealed
 - Brand: Nitecore
@@ -757,7 +757,7 @@ A serious twin-head headlamp. 2200 lumens with a separate battery case and two 1
 Brightness adjusts from 3 percent up to full. On the lowest setting the maker lists 143 hours of runtime, and 4.3 hours at full output.
 Rated IPX4 for rain. Ask us what is in the pack before you buy, because we are confirming whether a charger is included.
 
-- URL: https://www.torchoutlet.com.au/products/ferei-hl50-ii
+- URL: https://torchoutlet.com.au/products/ferei-hl50-ii
 - Price: $99 AUD inc GST
 - Condition: new, sealed
 - Brand: Ferei
@@ -785,32 +785,32 @@ Most people buy a torch on one number: lumens. It is the biggest number on the b
 
 Lumens measure total light output. More lumens means more light, spread wherever the reflector sends it.
 
-- **Under 100 lumens** is close work. Reading, switchboards, finding a keyhole. See the [T5s penlight](https://www.torchoutlet.com.au/products/nitecore-t5s).
+- **Under 100 lumens** is close work. Reading, switchboards, finding a keyhole. See the [T5s penlight](https://torchoutlet.com.au/products/nitecore-t5s).
 - **300 to 600 lumens** lights a room, a campsite or a backyard.
-- **1000 lumens and up** lights a paddock. See the [MH12](https://www.torchoutlet.com.au/products/nitecore-mh12) or the 1800 lumen [MH23](https://www.torchoutlet.com.au/products/nitecore-mh23).
+- **1000 lumens and up** lights a paddock. See the [MH12](https://torchoutlet.com.au/products/nitecore-mh12) or the 1800 lumen [MH23](https://torchoutlet.com.au/products/nitecore-mh23).
 
 ### Throw: how far the beam reaches
 
 Beam distance is the number that tells you whether you will see the far fence. It is measured to the ANSI FL1 standard: the distance at which the beam still gives about the light of a full moon (0.25 lux).
 
-Two torches with the same lumens can have very different throw. The [MH12](https://www.torchoutlet.com.au/products/nitecore-mh12) and the [MT40GT](https://www.torchoutlet.com.au/products/nitecore-mt40gt) both make 1000 lumens. The MH12 reaches 232 metres. The MT40GT reaches 618 metres, because a bigger reflector squeezes the same light into a tighter beam.
+Two torches with the same lumens can have very different throw. The [MH12](https://torchoutlet.com.au/products/nitecore-mh12) and the [MT40GT](https://torchoutlet.com.au/products/nitecore-mt40gt) both make 1000 lumens. The MH12 reaches 232 metres. The MT40GT reaches 618 metres, because a bigger reflector squeezes the same light into a tighter beam.
 
 - **Wide beam (flood)** for work up close, walking and camp.
 - **Tight beam (throw)** for spotting, search and open water.
 
 ### Runtime: how long it lasts
 
-The lumen figure on the box is the top mode. Run any torch flat out and the battery goes quickly. The lower modes are where the long runtimes live. The [MT20A](https://www.torchoutlet.com.au/products/nitecore-mt20a) runs up to 170 hours on low from two AA batteries.
+The lumen figure on the box is the top mode. Run any torch flat out and the battery goes quickly. The lower modes are where the long runtimes live. The [MT20A](https://torchoutlet.com.au/products/nitecore-mt20a) runs up to 170 hours on low from two AA batteries.
 
-If you want one setting that suits everything, look at a torch with stepless brightness like the [MT22C](https://www.torchoutlet.com.au/products/nitecore-mt22c). Twist the ring and stop where you like.
+If you want one setting that suits everything, look at a torch with stepless brightness like the [MT22C](https://torchoutlet.com.au/products/nitecore-mt22c). Twist the ring and stop where you like.
 
 ### A quick way to choose
 
-- **On your keys:** a [keychain light](https://www.torchoutlet.com.au/keychain-torches). You will use it more than any other torch you own.
-- **Work and trade:** a [rechargeable torch](https://www.torchoutlet.com.au/rechargeable-torches) with the battery in the box, or a [headlamp](https://www.torchoutlet.com.au/headlamps) if you need both hands.
-- **Camping:** a [lantern](https://www.torchoutlet.com.au/camping-lanterns) for the table and a torch for the track.
+- **On your keys:** a [keychain light](https://torchoutlet.com.au/keychain-torches). You will use it more than any other torch you own.
+- **Work and trade:** a [rechargeable torch](https://torchoutlet.com.au/rechargeable-torches) with the battery in the box, or a [headlamp](https://torchoutlet.com.au/headlamps) if you need both hands.
+- **Camping:** a [lantern](https://torchoutlet.com.au/camping-lanterns) for the table and a torch for the track.
 - **Long range:** look at beam distance first, lumens second.
-- **Blackouts:** something that runs on AA batteries. See [torch batteries explained](https://www.torchoutlet.com.au/guides/torch-batteries-explained).
+- **Blackouts:** something that runs on AA batteries. See [torch batteries explained](https://torchoutlet.com.au/guides/torch-batteries-explained).
 
 ## Torch batteries explained: AA, CR123, 18650 and built-in USB
 
@@ -820,27 +820,27 @@ The battery decides how bright a torch can be, how long it runs and what it cost
 
 The batteries in your TV remote. You can buy them at any servo or supermarket, which is the whole point. A torch that takes AAs is the one to keep in the glovebox or the blackout kit.
 
-See the [MT20A torch](https://www.torchoutlet.com.au/products/nitecore-mt20a) (2 x AA), the [LA10 lantern](https://www.torchoutlet.com.au/products/nitecore-la10) (1 x AA) and the [T5s penlight](https://www.torchoutlet.com.au/products/nitecore-t5s) (1 x AAA).
+See the [MT20A torch](https://torchoutlet.com.au/products/nitecore-mt20a) (2 x AA), the [LA10 lantern](https://torchoutlet.com.au/products/nitecore-la10) (1 x AA) and the [T5s penlight](https://torchoutlet.com.au/products/nitecore-t5s) (1 x AAA).
 
 ### 18650
 
 A rechargeable lithium-ion cell. The name is the size: 18 mm across, 65 mm long. It holds far more energy than an AA, which is why most 1000 lumen torches use one.
 
-Some torches come with the 18650 in the box and a USB port on the torch, so you never need a separate charger. The [MH12](https://www.torchoutlet.com.au/products/nitecore-mh12) and [MH12GT](https://www.torchoutlet.com.au/products/nitecore-mh12gt) are sold that way.
+Some torches come with the 18650 in the box and a USB port on the torch, so you never need a separate charger. The [MH12](https://torchoutlet.com.au/products/nitecore-mh12) and [MH12GT](https://torchoutlet.com.au/products/nitecore-mh12gt) are sold that way.
 
 ### CR123
 
-A 3 volt lithium battery, about half the length of an 18650. It is not rechargeable. It keeps its charge for years on a shelf, so it suits a torch that sits unused until an emergency. Many torches take either one 18650 or two CR123s. See the [P16](https://www.torchoutlet.com.au/products/nitecore-p16), [P10GT](https://www.torchoutlet.com.au/products/nitecore-p10gt) and [HC30 headlamp](https://www.torchoutlet.com.au/products/nitecore-hc30).
+A 3 volt lithium battery, about half the length of an 18650. It is not rechargeable. It keeps its charge for years on a shelf, so it suits a torch that sits unused until an emergency. Many torches take either one 18650 or two CR123s. See the [P16](https://torchoutlet.com.au/products/nitecore-p16), [P10GT](https://torchoutlet.com.au/products/nitecore-p10gt) and [HC30 headlamp](https://torchoutlet.com.au/products/nitecore-hc30).
 
 ### Built-in USB rechargeable
 
-Small lights like the [TIP](https://www.torchoutlet.com.au/products/nitecore-tip-2017), [TINI](https://www.torchoutlet.com.au/products/nitecore-tini) and [LR10 lantern](https://www.torchoutlet.com.au/products/nitecore-lr10) have the battery sealed inside. Plug in a USB lead and that is it. Nothing to buy, nothing to lose.
+Small lights like the [TIP](https://torchoutlet.com.au/products/nitecore-tip-2017), [TINI](https://torchoutlet.com.au/products/nitecore-tini) and [LR10 lantern](https://torchoutlet.com.au/products/nitecore-lr10) have the battery sealed inside. Plug in a USB lead and that is it. Nothing to buy, nothing to lose.
 
 ### Three rules
 
 - **Charge it before first use.** A lithium battery that has sat in a box should get a full charge before you rely on it.
 - **Do not mix batteries.** Never run old and new cells, or two different brands, in the same torch.
-- **Lithium ships by road.** We send lights with a lithium battery inside or in the box by road within Australia. See [shipping](https://www.torchoutlet.com.au/shipping-returns).
+- **Lithium ships by road.** We send lights with a lithium battery inside or in the box by road within Australia. See [shipping](https://torchoutlet.com.au/shipping-returns).
 
 ## ATEX on the box does not mean approved on your site
 
@@ -885,7 +885,7 @@ Every explosion-proof light we sell carries its certification marking on the bod
 
 Some certifications only apply with a specific battery fitted. Check the manual in the box and use only the battery it names.
 
-See our [explosion-proof torches and headlamps](https://www.torchoutlet.com.au/atex-torches).
+See our [explosion-proof torches and headlamps](https://torchoutlet.com.au/atex-torches).
 
 ## What a 365nm UV torch actually shows you
 
@@ -908,7 +908,7 @@ Cheap UV torches run at 395nm and throw a lot of visible purple light. That purp
 
 Do not shine a UV light into anyone's eyes, and do not stare at the LED.
 
-The [Nitecore Tube UV](https://www.torchoutlet.com.au/products/nitecore-tube-uv) is a 365nm light that weighs 10 grams, lives on a key ring and charges by USB.
+The [Nitecore Tube UV](https://torchoutlet.com.au/products/nitecore-tube-uv) is a 365nm light that weighs 10 grams, lives on a key ring and charges by USB.
 
 ## Nitecore model names decoded
 
@@ -916,13 +916,13 @@ Nitecore names its lights with letters and numbers. Once you know the letters, t
 
 ### The series letters
 
-- **MH (Multitask Hybrid):** rechargeable torches with the charge port built in. [MH1C](https://www.torchoutlet.com.au/products/nitecore-mh1c), [MH12](https://www.torchoutlet.com.au/products/nitecore-mh12), [MH12GT](https://www.torchoutlet.com.au/products/nitecore-mh12gt), [MH20GT](https://www.torchoutlet.com.au/products/nitecore-mh20gt), [MH23](https://www.torchoutlet.com.au/products/nitecore-mh23).
-- **MT (Multi-Task):** general purpose torches. [MT20A](https://www.torchoutlet.com.au/products/nitecore-mt20a), [MT22C](https://www.torchoutlet.com.au/products/nitecore-mt22c), [MT40GT](https://www.torchoutlet.com.au/products/nitecore-mt40gt).
-- **P (Precise):** tactical torches. [P10GT](https://www.torchoutlet.com.au/products/nitecore-p10gt), [P16](https://www.torchoutlet.com.au/products/nitecore-p16).
-- **HC:** headlamps. [HC30](https://www.torchoutlet.com.au/products/nitecore-hc30).
-- **LA and LR:** lanterns. LR models are USB rechargeable. [LA10](https://www.torchoutlet.com.au/products/nitecore-la10), [LA30](https://www.torchoutlet.com.au/products/nitecore-la30), [LR10](https://www.torchoutlet.com.au/products/nitecore-lr10), [LR30](https://www.torchoutlet.com.au/products/nitecore-lr30).
-- **T, TIP, TINI and Tube:** keychain and pocket lights. [TIP 2017](https://www.torchoutlet.com.au/products/nitecore-tip-2017), [TIP SS](https://www.torchoutlet.com.au/products/nitecore-tip-ss), [TIP CU](https://www.torchoutlet.com.au/products/nitecore-tip-cu), [TINI](https://www.torchoutlet.com.au/products/nitecore-tini), [Tube UV](https://www.torchoutlet.com.au/products/nitecore-tube-uv), [T5s](https://www.torchoutlet.com.au/products/nitecore-t5s).
-- **E:** explosion-proof rated lights. EF is a torch, EH is a headlamp. [EF1](https://www.torchoutlet.com.au/products/nitecore-ef1), [EH1](https://www.torchoutlet.com.au/products/nitecore-eh1), [EH1S](https://www.torchoutlet.com.au/products/nitecore-eh1s).
+- **MH (Multitask Hybrid):** rechargeable torches with the charge port built in. [MH1C](https://torchoutlet.com.au/products/nitecore-mh1c), [MH12](https://torchoutlet.com.au/products/nitecore-mh12), [MH12GT](https://torchoutlet.com.au/products/nitecore-mh12gt), [MH20GT](https://torchoutlet.com.au/products/nitecore-mh20gt), [MH23](https://torchoutlet.com.au/products/nitecore-mh23).
+- **MT (Multi-Task):** general purpose torches. [MT20A](https://torchoutlet.com.au/products/nitecore-mt20a), [MT22C](https://torchoutlet.com.au/products/nitecore-mt22c), [MT40GT](https://torchoutlet.com.au/products/nitecore-mt40gt).
+- **P (Precise):** tactical torches. [P10GT](https://torchoutlet.com.au/products/nitecore-p10gt), [P16](https://torchoutlet.com.au/products/nitecore-p16).
+- **HC:** headlamps. [HC30](https://torchoutlet.com.au/products/nitecore-hc30).
+- **LA and LR:** lanterns. LR models are USB rechargeable. [LA10](https://torchoutlet.com.au/products/nitecore-la10), [LA30](https://torchoutlet.com.au/products/nitecore-la30), [LR10](https://torchoutlet.com.au/products/nitecore-lr10), [LR30](https://torchoutlet.com.au/products/nitecore-lr30).
+- **T, TIP, TINI and Tube:** keychain and pocket lights. [TIP 2017](https://torchoutlet.com.au/products/nitecore-tip-2017), [TIP SS](https://torchoutlet.com.au/products/nitecore-tip-ss), [TIP CU](https://torchoutlet.com.au/products/nitecore-tip-cu), [TINI](https://torchoutlet.com.au/products/nitecore-tini), [Tube UV](https://torchoutlet.com.au/products/nitecore-tube-uv), [T5s](https://torchoutlet.com.au/products/nitecore-t5s).
+- **E:** explosion-proof rated lights. EF is a torch, EH is a headlamp. [EF1](https://torchoutlet.com.au/products/nitecore-ef1), [EH1](https://torchoutlet.com.au/products/nitecore-eh1), [EH1S](https://torchoutlet.com.au/products/nitecore-eh1s).
 
 ### What GT means
 

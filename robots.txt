@@ -1,10 +1,12 @@
 # robots.txt
 # Search engines and AI assistants are welcome. Product, price and stock facts are in /llms.txt and /products.json.
 
+# Search engines: crawl the HTML pages. The .md copies are for AI assistants.
 User-agent: *
 Allow: /
 Disallow: /cart
 Disallow: /404
+Disallow: /*.md$
 
 # AI search, AI assistants and AI training crawlers: allowed
 User-agent: GPTBot
@@ -51,19 +53,11 @@ User-agent: GoogleOther
 Allow: /
 Disallow: /cart
 
-User-agent: Applebot
-Allow: /
-Disallow: /cart
-
 User-agent: Applebot-Extended
 Allow: /
 Disallow: /cart
 
 User-agent: Amazonbot
-Allow: /
-Disallow: /cart
-
-User-agent: Bingbot
 Allow: /
 Disallow: /cart
 
@@ -91,4 +85,4 @@ User-agent: YouBot
 Allow: /
 Disallow: /cart
 
-Sitemap: https://www.torchoutlet.com.au/sitemap.xml
+Sitemap: https://torchoutlet.com.au/sitemap.xml
