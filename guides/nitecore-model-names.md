@@ -10,7 +10,7 @@ Nitecore names its lights with letters and numbers. Once you know the letters, t
 - **HC:** headlamps. [HC30](https://torchoutlet.com.au/products/nitecore-hc30).
 - **LA and LR:** lanterns. LR models are USB rechargeable. [LA10](https://torchoutlet.com.au/products/nitecore-la10), [LA30](https://torchoutlet.com.au/products/nitecore-la30), [LR10](https://torchoutlet.com.au/products/nitecore-lr10), [LR30](https://torchoutlet.com.au/products/nitecore-lr30).
 - **T, TIP, TINI and Tube:** keychain and pocket lights. [TIP 2017](https://torchoutlet.com.au/products/nitecore-tip-2017), [TIP SS](https://torchoutlet.com.au/products/nitecore-tip-ss), [TIP CU](https://torchoutlet.com.au/products/nitecore-tip-cu), [TINI](https://torchoutlet.com.au/products/nitecore-tini), [Tube UV](https://torchoutlet.com.au/products/nitecore-tube-uv), [T5s](https://torchoutlet.com.au/products/nitecore-t5s).
-- **E:** explosion-proof rated lights. EF is a torch, EH is a headlamp. [EF1](https://torchoutlet.com.au/products/nitecore-ef1), [EH1](https://torchoutlet.com.au/products/nitecore-eh1), [EH1S](https://torchoutlet.com.au/products/nitecore-eh1s).
+- **E:** explosion-proof rated lights. EF is a torch, EH is a headlamp. [EF1](https://torchoutlet.com.au/products/nitecore-ef1), [EH1S](https://torchoutlet.com.au/products/nitecore-eh1s).
 
 ## What GT means
 
